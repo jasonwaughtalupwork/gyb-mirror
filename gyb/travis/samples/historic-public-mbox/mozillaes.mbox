@@ -1,0 +1,3294 @@
+From nobody Mon Sep 15 15:43:58 2003
+Received: (qmail 24880 invoked from network); 15 Sep 2003 19:43:24 -0000
+Received: from unknown (HELO oscar.omgs.es) (217.125.116.214)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	15 Sep 2003 19:43:24 -0000
+Received: from 214.red-217-125-116.pooles.rima-tde.net ([217.125.116.214]
+	helo=escomposlinux.org)
+	by oscar.omgs.es with esmtp (Exim 3.35 #1 (Debian))
+	id 19yzCp-0004fN-00
+	for <mozillaes@mozdev.org>; Mon, 15 Sep 2003 21:40:15 +0200
+Message-ID: <3F66159F.5020208@escomposlinux.org>
+Date: Mon, 15 Sep 2003 21:40:15 +0200
+From: =?ISO-8859-1?Q?Oscar_Manuel_G=F3mez_Senovilla?= <omgs@escomposlinux.org>
+Organization: Estoy harto de spammers
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; es-ES; rv:1.4) Gecko/20030625
+X-Accept-Language: es-es, es, en
+MIME-Version: 1.0
+To: Lista de correo mozillaESLista de correo mozillaES <mozillaes@mozdev.org>
+X-Enigmail-Version: 0.76.0.0
+X-Enigmail-Supports: pgp-inline, pgp-mime
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+Subject: [Mozillaes] Primer mensaje
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Mon, 15 Sep 2003 19:43:27 -0000
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Hola, a ver si sale este mensaje.
+
+Saludos.
+
+- --
+|----------------------------------------------------------------------|
+| http://counter.li.org info: Linux user: 92390 - Linux machine: 39301 |
+|     Oscar Manuel G=F3mez Senovilla - mailto:omgs@escomposlinux.org     =
+|
+|               GPG Key at http://pgp.escomposlinux.org                |
+|----------------------------------------------------------------------|
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.1 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+
+iD8DBQE/ZhWeQpr3kykd/aQRAsHjAJ49eohI55luDeQe1zih//8t622kbACeJ+we
+qJWgKKzA0i2rIJKuItInFqc=3D
+=3DZmkr
+-----END PGP SIGNATURE-----
+
+
+From nobody Mon Sep 15 21:25:01 2003
+Received: (qmail 48062 invoked from network); 16 Sep 2003 01:24:24 -0000
+Received: from unknown (HELO oscar.omgs.es) (217.125.116.214)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	16 Sep 2003 01:24:24 -0000
+Received: from 214.red-217-125-116.pooles.rima-tde.net ([217.125.116.214]
+	helo=escomposlinux.org)
+	by oscar.omgs.es with esmtp (Exim 3.35 #1 (Debian))
+	id 19z4Wn-0002Gp-00
+	for <mozillaes@mozdev.org>; Tue, 16 Sep 2003 03:21:13 +0200
+Message-ID: <3F666589.3030106@escomposlinux.org>
+Date: Tue, 16 Sep 2003 03:21:13 +0200
+From: =?ISO-8859-1?Q?Oscar_Manuel_G=F3mez_Senovilla?= <omgs@escomposlinux.org>
+Organization: Estoy harto de spammers
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; es-ES; rv:1.4) Gecko/20030625
+X-Accept-Language: es-es, es, en
+MIME-Version: 1.0
+To: Lista de correo mozillaESLista de correo mozillaES <mozillaes@mozdev.org>
+X-Enigmail-Version: 0.76.0.0
+X-Enigmail-Supports: pgp-inline, pgp-mime
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+Subject: [Mozillaes] Objetivos iniciales
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Tue, 16 Sep 2003 01:24:29 -0000
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+A m=ED me lleg=F3 por sorpresa (bueno, digamos que no lo esperaba "en ese=
+
+instante") la existencia de esta lista, y ahora yo creo que ya que
+Alvaro ha movido los hilos, diga d=F3nde, c=F3mo y cu=E1ndo hay que anunc=
+iar
+la existencia del proyecto en nave y otros sitios.
+
+Hay una cuesti=F3n que va a crear confusi=F3n, y es el tema mozes vs.
+mozillaES, d=F3nde empieza uno y el otro, por lo que quiz=E1 deber=EDamos=
+
+tener la p=E1gina de inicio bien preparada con los objetivos a cubrir.
+
+Por un lado, he hecho una traducci=F3n inicial del "entorno de inicio", y=
+
+aunque parece que se puede quitar todo el "sabor a mozdev", eso lo
+dejamos para despu=E9s, si realmente se llega a hacer.
+
+Tambi=E9n, y sin intenci=F3n de criticar a mozes, adem=E1s de que no ha h=
+abido
+en ning=FAn momento _en sus dependencias_ ninguna declaraci=F3n de objeti=
+vos
+distinta a la de su creaci=F3n (los mensajes en listas ajenes o
+comentarios en chat no son oficiales al nivel del proyecto), me hacen
+pensar que deber=EDa quedarse en esos motivos. Esa falta de movilidad o
+"exceso de ambig=FCedad", adem=E1s de que se han cortado ciertos objetivo=
+s
+que se quer=EDan llevar a cabo y que no parec=EDan tener cabida en mozes,=
+
+son las causas principales de la creaci=F3n de mozillaES, a las que hay
+que a=F1adir los objetivos ya existentes en esmoz, que se supone que va a=
+
+desaparecer en favor de mozillaES, cual OPA, pero en este caso no hostil =
+:-)
+
+Todo esto tenemos que plasmarlo, de manera _CONCISA_ en la p=E1gina
+principal de mozillaes, para aclarar las dudas sobre los objetivos de
+ambos proyectos.
+
+Una cuesti=F3n, y que NO debe figurar en la p=E1gina de inicio (aunque s=ED=
+
+estar=E1 latente entre los miembros) es que, sobre todo si el nombre
+MozillaES se considera el m=E1s adecuado para un proyecto global, el
+trabajo de mozes deber=EDa integrarse es MozillaES, pero esto s=F3lo el
+tiempo lo dir=E1. En cualquier caso, de no producirse, no quiere decir qu=
+e
+no pueda haber desde personas en ambos proyectos (faltar=EDa m=E1s) as=ED=
+ como
+colaboraciones, menciones, enlaces, etc.
+
+Pens=E1ndolo de manera un poco m=E1s pr=E1ctica, es posible que MozillaES=
+ sea
+un simple rebautizo de esmoz, que ha elegido un nombre m=E1s llamativo, y=
+
+espera incluso ampliar objetivos, ya que como dec=EDa mozes no se ha
+pronunciado de manera clara y concisa sobre sus contenidos.
+
+Alvaro, desconozco si tienes algo redactado en este sentido. Si es as=ED,=
+
+lo puedes poner o me lo mandas y, si no encuentras ninguna incoherencia
+entre lo que me mandes y las ideas expresadas en el manifiesto (lo cito
+por ser lo m=E1s conciso y extenso que he escrito) y subo un borrador de
+ambas cosas.
+
+Tampoco hay que olvidar la creaci=F3n de la lista de ayuda, para cuando
+est=E9 todo listo.
+
+
+Saludos.
+
+- --
+|----------------------------------------------------------------------|
+| http://counter.li.org info: Linux user: 92390 - Linux machine: 39301 |
+|     Oscar Manuel G=F3mez Senovilla - mailto:omgs@escomposlinux.org     =
+|
+|               GPG Key at http://pgp.escomposlinux.org                |
+|----------------------------------------------------------------------|
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.1 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+
+iD8DBQE/ZmWIQpr3kykd/aQRAjTWAJ9rbe5aWIwUXtdApi59kAKXovsIBgCdHkBx
+dDv/APgOQcTqEaMbl/ncRsA=3D
+=3DXfqs
+-----END PGP SIGNATURE-----
+
+
+From nobody Tue Sep 16 14:48:13 2003
+Received: (qmail 27982 invoked from network); 16 Sep 2003 18:47:20 -0000
+Received: from unknown (HELO blackice.aycuens.com) (80.224.105.77)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	16 Sep 2003 18:47:20 -0000
+Received: (from firewall@localhost)
+	by blackice.aycuens.com (8.9.3/AYCUENSøSMAP) id UAA07676
+	( Zombificad0}:| ) for <mozillaes@mozdev.org>; Tue, 16 Sep 2003 20:44:48 +0200
+X-Complaints-To: abuse@aycuens.com
+X-Url: http://www.aycuens.com
+Received: from devastator.aycuens.com(192.168.2.10) by blackice.aycuens.com
+	via smap (V2.1) id sma007674; Tue, 16 Sep 03 20:44:35 +0200
+Message-ID: <3F6759F7.7010309@aycuens.com>
+Date: Tue, 16 Sep 2003 20:44:07 +0200
+From: "Alvaro Munoz-Aycuens Mtnz." <alvarolists@aycuens.com>
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.5b) Gecko/20030913
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: mozillaes@mozdev.org
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+Subject: [MozillaES] Re: Objetivos iniciales
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: Mozilla en Espa&#241;ol  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Tue, 16 Sep 2003 18:47:21 -0000
+
+Hola a todos,
+
+Voy por partes, en principio todo lo básico para empezar a poner esto en
+marcha esta funcionando, la lista, paginas (con acceso cvs para
+Oscar,Alberto y yo) y el bugzilla con sus correspondientes módulos para
+añadir bugs relacionados con el proyecto, en cuanto a esmoz ya he pedido
+que lo quiten de las listas de proyectos.
+
+En el caso de mozes todavía sigue tal y como esta a la espera de
+clarificar su situación estoy de acuerdo con todo lo expuesto por Oscar
+en relación a mozes, así que para evitar problemas todo tiene que estar
+bien claro en las paginas de MozillaES
+
+Todavía no tengo nada redactado de lo que seria la declaración de
+intenciones del proyecto, pero estoy preparándolo y voy a tomar cosas
+del manifestó y cosas del correo famoso que envíe a nave, cuando salio
+la noticia de la formación de Mozilla Foundation, respecto a esto
+hacemos como prefieras o te lo envío para que lo revises o lo publico ya
+en el web y lo retocas directamente desde cvs.
+
+Creo que esto es todo por ahora :)
+
+Un Saludo
+
+Alvaro
+Oscar Gomez wrote:
+
+> A mí me llegó por sorpresa (bueno, digamos que no lo esperaba "en ese
+> instante") la existencia de esta lista, y ahora yo creo que ya que
+> Alvaro ha movido los hilos, diga dónde, cómo y cuándo hay que anunciar
+> la existencia del proyecto en nave y otros sitios.
+> 
+> Hay una cuestión que va a crear confusión, y es el tema mozes vs.
+> mozillaES, dónde empieza uno y el otro, por lo que quizá deberíamos
+> tener la página de inicio bien preparada con los objetivos a cubrir.
+> 
+> Por un lado, he hecho una traducción inicial del "entorno de inicio", y
+> aunque parece que se puede quitar todo el "sabor a mozdev", eso lo
+> dejamos para después, si realmente se llega a hacer.
+> 
+> También, y sin intención de criticar a mozes, además de que no ha habido
+> en ningún momento _en sus dependencias_ ninguna declaración de objetivos
+> distinta a la de su creación (los mensajes en listas ajenes o
+> comentarios en chat no son oficiales al nivel del proyecto), me hacen
+> pensar que debería quedarse en esos motivos. Esa falta de movilidad o
+> "exceso de ambigüedad", además de que se han cortado ciertos objetivos
+> que se querían llevar a cabo y que no parecían tener cabida en mozes,
+> son las causas principales de la creación de mozillaES, a las que hay
+> que añadir los objetivos ya existentes en esmoz, que se supone que va a
+> desaparecer en favor de mozillaES, cual OPA, pero en este caso no hostil :-)
+> 
+> Todo esto tenemos que plasmarlo, de manera _CONCISA_ en la página
+> principal de mozillaes, para aclarar las dudas sobre los objetivos de
+> ambos proyectos.
+> 
+> Una cuestión, y que NO debe figurar en la página de inicio (aunque sí
+> estará latente entre los miembros) es que, sobre todo si el nombre
+> MozillaES se considera el más adecuado para un proyecto global, el
+> trabajo de mozes debería integrarse es MozillaES, pero esto sólo el
+> tiempo lo dirá. En cualquier caso, de no producirse, no quiere decir que
+> no pueda haber desde personas en ambos proyectos (faltaría más) así como
+> colaboraciones, menciones, enlaces, etc.
+> 
+> Pensándolo de manera un poco más práctica, es posible que MozillaES sea
+> un simple rebautizo de esmoz, que ha elegido un nombre más llamativo, y
+> espera incluso ampliar objetivos, ya que como decía mozes no se ha
+> pronunciado de manera clara y concisa sobre sus contenidos.
+> 
+> Alvaro, desconozco si tienes algo redactado en este sentido. Si es así,
+> lo puedes poner o me lo mandas y, si no encuentras ninguna incoherencia
+> entre lo que me mandes y las ideas expresadas en el manifiesto (lo cito
+> por ser lo más conciso y extenso que he escrito) y subo un borrador de
+> ambas cosas.
+> 
+> Tampoco hay que olvidar la creación de la lista de ayuda, para cuando
+> esté todo listo.
+> 
+> 
+> Saludos.
+
+
+
+
+From nobody Wed Sep 17 11:18:04 2003
+Received: (qmail 26202 invoked from network); 17 Sep 2003 15:17:31 -0000
+Received: from unknown (HELO crotaphytus.epm.net.co) (200.13.224.4)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	17 Sep 2003 15:17:31 -0000
+Received: from 127.0.0.1 (localhost [127.0.0.1])
+	by crotaphytus.epm.net.co (Postfix) with SMTP id 6987EDA90
+	for <mozillaes@mozdev.org>; Wed, 17 Sep 2003 10:17:57 +0500 (GMT)
+Received: from lauta.epm.net.co (lauta.epm.net.co [200.13.224.2])
+	by crotaphytus.epm.net.co (Postfix) with ESMTP id D596CDDAB
+	for <mozillaes@mozdev.org>; Wed, 17 Sep 2003 10:13:22 +0500 (GMT)
+Received: from epm.net.co (200.75.94.99) by lauta.epm.net.co (6.0.055)
+	(authenticated as c4y0@epm.net.co)
+	id 3F660B5C000AA9DC for mozillaes@mozdev.org;
+	Wed, 17 Sep 2003 10:10:38 -0500
+Message-ID: <3F68789E.5090903@epm.net.co>
+Date: Wed, 17 Sep 2003 10:07:10 -0500
+From: "Carlos Mario Mora (c4y0)" <c4y0@epm.net.co>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US;
+	rv:1.5b) Gecko/20030827
+X-Accept-Language: es-co, es, en-us, en
+MIME-Version: 1.0
+To: mozillaes@mozdev.org
+Content-Type: text/plain; charset=us-ascii; format=flowed
+Content-Transfer-Encoding: 7bit
+Subject: [MozillaES] Seguridad en Mozilla
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: Mozilla en Espa&#241;ol  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Wed, 17 Sep 2003 15:17:32 -0000
+
+Buenas las tengan =)
+
+Deseo proponer a mozilla en mi empresa como alternativa para navegacion 
+y correos.
+
+Principalmente me interesa saber que tan segura es la parte del correo 
+en mozilla para windows en cuanto a los virus.   Por ejemplo:  El 
+antivirus me detecto un virus en outlook, pero no lo detecto con el 
+mismo correo en mozilla.
+
+Donde puedo encontrar informacion al respecto?
+
+Gracias por adelantado
+
+
+
+From nobody Sun Sep 21 18:55:57 2003
+Received: (qmail 37938 invoked from network); 21 Sep 2003 22:55:23 -0000
+Received: from unknown (HELO blackice.aycuens.com) (80.224.105.77)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	21 Sep 2003 22:55:23 -0000
+Received: (from firewall@localhost)
+	by blackice.aycuens.com (8.9.3/AYCUENSøSMAP) id AAA13890
+	( Zombificad0}:| ) for <mozillaes@mozdev.org>; Mon, 22 Sep 2003 00:52:06 +0200
+X-Complaints-To: abuse@aycuens.com
+X-Url: http://www.aycuens.com
+Received: from devastator.aycuens.com(192.168.2.10) by blackice.aycuens.com
+	via smap (V2.1) id sma013888; Mon, 22 Sep 03 00:51:21 +0200
+Message-ID: <3F6E2B78.5090503@aycuens.com>
+Date: Mon, 22 Sep 2003 00:51:36 +0200
+From: "Alvaro Munoz-Aycuens Mtnz." <alvarolists@aycuens.com>
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.5b) Gecko/20030913
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: mozillaes@mozdev.org
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+Subject: [MozillaES] Trabajo basico terminado
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: Mozilla en Espa&#241;ol  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Sun, 21 Sep 2003 22:55:24 -0000
+
+Hola a todos,
+
+El trabajo principal ya se ha terminado, por ahora este seria el 
+contenido básico y objetivos de inicio de andadura, la información sobre 
+los objetivos del proyecto se encuentra en el texto de la pagina inicial.
+A partir de aquí se aceptan todo tipo de sugerencias y por supuesto 
+contenido, además de correcciones.
+
+Una vez que reciba vuestra aprobación creo que sera el momento de 
+hacerlo publico, ya tengo en mente una lista de sitios donde publicarlo 
+:) así me podré poner a crear una serie de información que siempre he 
+querido que existiese.
+
+
+Un Saludo
+
+Alvaro
+
+
+From nobody Tue Sep 23 18:42:18 2003
+Received: (qmail 87400 invoked from network); 23 Sep 2003 22:41:43 -0000
+Received: from unknown (HELO oscar.omgs.es) (217.125.116.214)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	23 Sep 2003 22:41:43 -0000
+Received: from 214.red-217-125-116.pooles.rima-tde.net ([217.125.116.214]
+	helo=escomposlinux.org)
+	by oscar.omgs.es with esmtp (Exim 3.35 #1 (Debian))
+	id 1A1vnV-0003gs-00
+	for <mozillaes@mozdev.org>; Wed, 24 Sep 2003 00:38:17 +0200
+Message-ID: <3F70CB58.9000908@escomposlinux.org>
+Date: Wed, 24 Sep 2003 00:38:16 +0200
+From: =?ISO-8859-1?Q?Oscar_Manuel_G=F3mez_Senovilla?= <omgs@escomposlinux.org>
+Organization: Estoy harto de spammers
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; es-ES; rv:1.4) Gecko/20030625
+X-Accept-Language: es-es, es, en
+MIME-Version: 1.0
+To: mozillaes@mozdev.org
+Subject: Re: [MozillaES] Seguridad en Mozilla
+References: <3F68789E.5090903@epm.net.co>
+In-Reply-To: <3F68789E.5090903@epm.net.co>
+X-Enigmail-Version: 0.76.0.0
+X-Enigmail-Supports: pgp-inline, pgp-mime
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: Mozilla en Espa&#241;ol  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Tue, 23 Sep 2003 22:41:45 -0000
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Carlos Mario Mora (c4y0) escribi=F3:
+>> Buenas las tengan =3D)
+
+
+Buenas igualmente, Carlos. Y perd=F3n por tardar tanto en responder.
+
+
+
+>> Deseo proponer a mozilla en mi empresa como alternativa para navegacio=
+n
+>> y correos.
+
+
+
+Bien.
+
+
+
+>> Principalmente me interesa saber que tan segura es la parte del correo=
+
+>> en mozilla para windows en cuanto a los virus.   Por ejemplo:  El
+>> antivirus me detecto un virus en outlook, pero no lo detecto con el
+>> mismo correo en mozilla.
+>>
+>> Donde puedo encontrar informacion al respecto?
+
+
+
+Bueno, sobre lo que detectan los antivirus y lo que no, es un tema del
+cual no suelo preocuparme, si acaso la forma "cient=EDfica" de
+combatirlos, es decir, inform=E1ndome de c=F3mo funcionan y, a partir de
+ah=ED, afrontar la lucha si procede. Puedo asegurar que soy inmune al 99%=
+
+de los virus sin ning=FAn antivirus instalado.
+
+He buscado un poco por internet y no he sido capaz de buscar informaci=F3=
+n
+sobre virus que afecten a mozilla. S=ED he encontrado alguna referencia a=
+
+alguna vulnerabilidad antigua de netscape, pero poco m=E1s.
+
+No te descubro nada si te digo por ejemplo que, si ma=F1ana saliese un
+virus que explota alguna vulnerabilidad de mozilla (que a d=EDa de hoy es=
+
+desconocida), en 24 horas habr=EDa un parche, que aparte de estar
+disponible para descarga libre por todo el mundo, tendr=EDa como
+consecuencia que esa versi=F3n dejar=EDa de estar recomendada por la prop=
+ia
+gente de mozilla.org, y ofrecer=EDan en su p=E1gina de descargas la versi=
+=F3n
+alternativa correspondiente. Adem=E1s, la propia comunidad de usuarios de=
+
+mozilla tomar=EDa conciencia del problema y dejar=EDa de usar esa versi=F3=
+n.
+
+Ahora, traspasa este tipo de actuaci=F3n a OE. Es cierto que M$ saca
+bastantes parches para OE (no creo que hayan sacado parches para _todos_
+los agujeros encontrados, aunque podr=EDa estar equivocado), e incluso
+r=E1pidamente, pero no informa a los usuarios de una manera clara de
+cu=E1les son los problemas, sino que los esconde, lo que provoca que los
+usuarios usen OE "en bruto" (es decir, sin aplicar parche de ning=FAn
+tipo) ya que se les ofrece una imagen de producto seguro. De manera
+contraprudecente, y me imagino que ser=E1 otro de los motivos por los que=
+
+M$ no informa adecuadamente a los usuarios finales de estos problemas
+que van surgiendo, es porque podr=EDan llevarse las manos a la cabeza y
+descubrir qu=E9 es lo que tienen entre manos, aunque seguramente habr=EDa=
+ un
+buen n=FAmero que, por pura veguer=EDa y ego=EDsmo, prefieren seguir igno=
+rando
+la realidad de que su programa favorito es el m=E1s da=F1ino y nocivo a
+nivel de seguridad tanto para ellos como para los dem=E1s.
+
+Por si todo esto fuera poco, es casi humanamente imposible tener una
+instalaci=F3n de OE sin agujeros de seguridad, ya que salen virus para OE=
+
+(y la familiar de productos M$, por extensi=F3n) continuamente, y entre
+versi=F3n y versi=F3n (donde _se supone_ que se arreglan todas las
+vulnerabilidades) pasa demasiado tiempo (por no mencionar la
+reinstalaci=F3n peri=F3dica obligada cada cierto tiempo de hasefroch,
+volviendo al estado _vulnerable_ inicial) como para que el usuario pueda
+esperar una versi=F3n _oficial_ "segura".
+
+Voy a intentar acabar por no aburrir, aunque me dejar=E9 cosas en el
+tintero (se podr=EDa escribir mucho m=E1s sobre esto). Por cada posible
+vulnerabilidad que pudiera salir en mozilla, salen al menos cien para
+OE. Adem=E1s, aparte de que el menor n=FAmero hace m=E1s f=E1cil el arreg=
+lo, es
+muy f=E1cil que la versi=F3n de mozilla sea segura, y si alguien intentar=
+a
+descargarla, o no est=E1 disponible, o tiene un aviso muy grande indicand=
+o
+que esa versi=F3n es problem=E1tica. Con OE, aun baj=E1ndose la =FAltima
+versi=F3n, no hay garant=EDa de que est=E9 actualizada, debido al excesiv=
+o
+tiempo que transcurre entre los lanzamientos de versiones, y si
+casualmente alg=FAn d=EDa concreto se pensase que pudiera tenerse una
+versi=F3n segura, es cuesti=F3n de muy poco tiempo que eso deje de ser as=
+=ED.
+Incluso suponiendo que haya un parche r=E1pido, si hay que pasarlo a 100
+usuarios, no quiero decir a qui=E9n le toca hacerlo.
+
+Un ejercicio adicional que dejo a alg=FAn _sufrido_ voluntario es hacer
+una recopilaci=F3n de vulnerabilidades para OE  Si alguien lo hace, que
+no deje de mand=E1rmela por correo.
+
+Y una cosa m=E1s a favor: Mozilla (al menos la versi=F3n para hasefroch)
+puede importar f=E1cilmente y en pocos segundos (a menos que se tengan
+muchos correos) los componentes de OE, no siendo necesario siquiera ser
+administrador para ello (suponiendo que ya est=E1 mozilla instalado, clar=
+o
+est=E1). Para un uso b=E1sico (incluso avanzado) puedes echar una vistazo=
+ a
+la ayuda e imprimirla, ya que est=E1 en html.
+
+Espero que sea al menos suficiente, teniendo en cuenta la extensi=F3n del=
+
+mensaje y la hora que es.
+
+Cualquier detalle que necesites, hazlo saber.
+
+
+Saludos.
+
+
+- - --
+|----------------------------------------------------------------------|
+| http://counter.li.org info: Linux user: 92390 - Linux machine: 39301 |
+|     Oscar Manuel G=F3mez Senovilla - mailto:omgs@escomposlinux.org     =
+|
+|               GPG Key at http://pgp.escomposlinux.org                |
+|----------------------------------------------------------------------|
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.1 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+
+iD8DBQE/cMtXQpr3kykd/aQRAlNzAJ0fPIop/fmis7HKPSuChyj/nOff9ACfaMHR
+05Dkq4zF/8rrFowDhy+DE1g=3D
+=3D82Ew
+-----END PGP SIGNATURE-----
+
+
+From nobody Wed Sep 24 10:00:39 2003
+Received: (qmail 69449 invoked from network); 24 Sep 2003 14:00:06 -0000
+Received: from unknown (HELO zape.telecable.es) (212.89.0.25)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	24 Sep 2003 14:00:06 -0000
+Received: (qmail 13220 invoked from network); 24 Sep 2003 13:56:43 -0000
+Received: from unknown (HELO telecable.es) ([213.141.53.37]) (envelope-sender
+	<algarcianet@telecable.es>) by 0 (qmail-ldap-1.03) with SMTP
+	for <mozillaes@mozdev.org>; 24 Sep 2003 13:56:43 -0000
+Message-ID: <3F71A2A2.8070102@telecable.es>
+Date: Wed, 24 Sep 2003 15:56:50 +0200
+From: =?ISO-8859-1?Q?Alberto_Garc=EDa_Fern=E1ndez?= <algarcianet@telecable.es>
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; es-ES; rv:1.2.1) Gecko/20030225
+X-Accept-Language: es-es, es
+MIME-Version: 1.0
+To: mozillaes@mozdev.org
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+Subject: [MozillaES] Papeles que
+ =?iso-8859-1?q?desempe=F1an_los_diferentes_proyectos?=
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: Mozilla en Espa&#241;ol  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Wed, 24 Sep 2003 14:00:06 -0000
+
+Hola:
+
+Con el anuncio público de este proyecto de MozillaES, creo que sería 
+bueno definir entre todos, y todos los proyectos, el papel que debe 
+jugar cada uno de ellos. En principio, los papeles de los proyectos como 
+el Proyecto NAVE <http://mozillaes.mozdev.org/>, MozES 
+<http://mozes.mozdev.org/> y este proyecto MozillaES 
+<http://mozillaes.mozdev.org/>. Creo que Óscar quería dejar claro el 
+papel que juega el Proyecto NAVE, y este puede ser un buen momento para 
+hacerlo, junto con los demás.
+
+Teniendo en cuenta, que todo el mundo al que concierne lo mencionado 
+arriba, está suscrito a la lista de NAVE, podría hacerse ahí la puesta 
+en común, aunque en realidad sería algo fuera de tema dicha lista de 
+correo. Así que se podría usar la etiqueta "[Papeles]" u otra por el 
+estilo, en dicha lista, para la puesta en común e intercambio de 
+impresiones al respecto de los papeles que debene jugar los tres 
+proyectos y cómo deben relacionarse entre ellos.
+
+También, estaría bien decidir, (ya en esta lista claro) cómo se puede 
+organizar internamente MozillaES. Los subproyectos o departamentos que 
+se creen, que libertad de actuación van a tener, sus opiniones, trabajos 
+o estudios, hasta qué punto van a ser respetados por las demás 
+departamentos y otros proyectos (en este segundo caso, a discutir en la 
+lista del Proyecto NAVE), etc.
+
+Atte.,
+
+<prueba (ignorar)>
+prueba@prue.ba
+</prueba (ignorar)>
+
+-- 
+Alberto García Fernández
+algarcianet_en_telecable.es
+Usuario Registrado Linux #315313
+
+
+From nobody Sun Sep 28 07:20:06 2003
+Received: (qmail 83477 invoked from network); 28 Sep 2003 11:19:32 -0000
+Received: from unknown (HELO oscar.omgs.es) (217.125.116.214)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	28 Sep 2003 11:19:32 -0000
+Received: from 214.red-217-125-116.pooles.rima-tde.net ([217.125.116.214]
+	helo=escomposlinux.org)
+	by oscar.omgs.es with esmtp (Exim 3.35 #1 (Debian))
+	id 1A3ZWs-0000ex-00
+	for <mozillaes@mozdev.org>; Sun, 28 Sep 2003 13:15:54 +0200
+Message-ID: <3F76C2EA.6040703@escomposlinux.org>
+Date: Sun, 28 Sep 2003 13:15:54 +0200
+From: =?ISO-8859-1?Q?Oscar_Manuel_G=F3mez_Senovilla?= <omgs@escomposlinux.org>
+Organization: Estoy harto de spammers
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; es-ES; rv:1.4) Gecko/20030625
+X-Accept-Language: es, es-es, en, es-mx
+MIME-Version: 1.0
+To: Lista de correo mozillaESLista de correo mozillaES <mozillaes@mozdev.org>
+X-Enigmail-Version: 0.76.0.0
+X-Enigmail-Supports: pgp-inline, pgp-mime
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+Subject: [MozillaES] =?iso-8859-1?q?Secci=F3n_noticias?=
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: Mozilla en Espa&#241;ol  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Sun, 28 Sep 2003 11:19:34 -0000
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Mientras se le da el toque definitivo a los objetivos, creo que no queda
+fuera una secci=F3n dedicada a noticias relacionadas con mozilla.
+
+Esta secci=F3n (al menos tal cual la propongo) no tiene en principio que
+ser un diario de actualidad que cambie d=EDa a d=EDa, sino que intentar=ED=
+a
+recoger, de manera escueta (al menos inicialmente) sucesos que ocurran
+en torno a mozilla y que puedan ser importantes. B=E1sicamente ser=EDa
+lanzamientos de nuevas versiones de productos y alguna cosa m=E1s. La
+raz=F3n para que no sea algo "grande" es que requerir=EDa demasiado tiemp=
+o y
+esfuerzo, y quiz=E1s una organizaci=F3n y recursos que no tenemos, y por =
+eso
+no se puede exigir a quien o quienes se pongan con ello que dediquen
+demasiado tiempo.
+
+Otro motivo es para darle dinamismo a la p=E1gina, ya que si los
+desarrollos de mozillaes pueden ser lentos, esto le dar=EDa una motivaci=F3=
+n
+a la gente para visitarlo con frecuencia para "ver qu=E9 se cuece".
+
+Es simplemente una idea. Adelanto que, si se lleva a cabo, no soy la
+persona m=E1s indicada para hacer de "reportero", aunque s=ED podr=EDa
+coordinar y/o subir el trabajo realizado por otras personas.
+
+
+Saludos.
+
+- --
+|----------------------------------------------------------------------|
+| http://counter.li.org info: Linux user: 92390 - Linux machine: 39301 |
+|     Oscar Manuel G=F3mez Senovilla - mailto:omgs@escomposlinux.org     =
+|
+|               GPG Key at http://pgp.escomposlinux.org                |
+|----------------------------------------------------------------------|
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.1 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+
+iD8DBQE/dsLqQpr3kykd/aQRAuJCAJ9jrySWKupEsWv9lU0enjp3HYTCrwCbBAzr
+zcVeZOf4zYl6jQHirGtYJ08=3D
+=3D6cLi
+-----END PGP SIGNATURE-----
+
+
+From nobody Sun Sep 28 08:51:07 2003
+Received: (qmail 90768 invoked from network); 28 Sep 2003 12:51:01 -0000
+Received: from unknown (HELO zipi.telecable.es) (212.89.0.24)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	28 Sep 2003 12:51:01 -0000
+Received: (qmail 15856 invoked from network); 28 Sep 2003 12:18:14 -0000
+Received: from unknown (HELO telecable.es) ([213.141.51.26]) (envelope-sender
+	<algarcianet@telecable.es>) by 0 (qmail-ldap-1.03) with SMTP
+	for <mozillaes@mozdev.org>; 28 Sep 2003 12:18:14 -0000
+Sender: alberto
+Message-ID: <3F76D454.2657500A@telecable.es>
+Date: Sun, 28 Sep 2003 14:30:12 +0200
+From: Alberto =?iso-8859-1?Q?Garc=EDa=20Fern=E1ndez?= 
+	<algarcianet@telecable.es>
+X-Mailer: Mozilla 4.72 [es] (X11; U; Linux 2.2.14-5.0 i586)
+X-Accept-Language: es-ES, es, en
+MIME-Version: 1.0
+To: mozillaes@mozdev.org
+Subject: Re: [MozillaES] =?iso-8859-1?Q?Secci=F3n?= noticias
+References: <3F76C2EA.6040703@escomposlinux.org>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: Mozilla en Espa&#241;ol  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Sun, 28 Sep 2003 12:51:02 -0000
+
+Oscar Manuel Gómez Senovilla escribió:
+> 
+> -----BEGIN PGP SIGNED MESSAGE-----
+> Hash: SHA1
+> 
+> Mientras se le da el toque definitivo a los objetivos, creo que no queda
+> fuera una sección dedicada a noticias relacionadas con mozilla.
+> 
+> Esta sección (al menos tal cual la propongo) no tiene en principio que
+> ser un diario de actualidad que cambie día a día, sino que intentaría
+> recoger, de manera escueta (al menos inicialmente) sucesos que ocurran
+> en torno a mozilla y que puedan ser importantes. Básicamente sería
+> lanzamientos de nuevas versiones de productos y alguna cosa más. La
+> razón para que no sea algo "grande" es que requeriría demasiado tiempo y
+> esfuerzo, y quizás una organización y recursos que no tenemos, y por eso
+> no se puede exigir a quien o quienes se pongan con ello que dediquen
+> demasiado tiempo.
+> 
+> Otro motivo es para darle dinamismo a la página, ya que si los
+> desarrollos de mozillaes pueden ser lentos, esto le daría una motivación
+> a la gente para visitarlo con frecuencia para "ver qué se cuece".
+> 
+> Es simplemente una idea. Adelanto que, si se lleva a cabo, no soy la
+> persona más indicada para hacer de "reportero", aunque sí podría
+> coordinar y/o subir el trabajo realizado por otras personas.
+> 
+> Saludos.
+> 
+
+Me parece interesante, porque es algo que no existe en castellano. Creo,
+que por simplificar las cosas, podríamos hacer referencia solamente a
+noticias de Mozilla en castellano. Osea anunciar la salida de nuevas
+traducciones del Proyecto NAVE (y de los otros grupos de traducción
+hispanos, si contactamos con ellos y quieren colaborar con nosotros) y
+cosas así, o el lanzamiento de nuevos proyectos o subpoyectos
+relacionados con Mozilla en nuestra lengua. De esta manera, no serían
+noticias muy extensas, sólo apuntes concretos de sucesos importantes en
+lo relativo a Mozilla en nuestro idioma, con lo cual, creo que podríamos
+controlarlo bien, sin demasiado esfuerzo y complicación.
+
+Más adelante, me gustaría proponer la creación de un departamento de
+"marketing y comunicación" dentro de Mozillaes, donde me gustaría, que
+una de sus funciones fuese incluir una especie de "notas de prensa". Me
+explico:
+
+Si algún proyecto (NAVE, Buzilla-es, Mozilla Argentina, etc.) quisiese
+hacer un anuncio público, y quisiese tener ese anuncio en algo más que
+un mensaje de una lista de correo, podría remitirlo ahí, y se pondría en
+la sección de "notas de prensa" o "comunicados". Éso podría ser un buen
+complemento para las noticias, y un recurso, que los diferentes
+proyectos de Mozilla en castellano, podrían usar, y favorecería, a la
+imagen global del proyecto Mozilla en nuestro idioma.
+
+Por otra parte, me gustaría pedir que se agilizase el anuncio de este
+proyecto Mozillaes, en la lista de NAVE, como se había convenido, puesto
+que actualmente se están revisando los marcadores de la traducción
+es-ES, y había salido la posibilidad de añadir algunos, con los nuevos
+proyectos que han aparecido recientemente. Bien, no creo que sea bueno
+hablar del marcador de Mozillaes, antes de que este proyecto sea
+anunciado en donde se había acordado. Supongo que ahí estaréis de
+acuerdo conmigo. También conviene discutir, cuanto antes, los objetivos
+que abarca cada uno de los proyectos, en la lista de NAVE, para evitar
+líos y confusiones luego o choques entre proyectos.
+
+Atte.,
+
+-- 
+Alberto García Fernández
+algarcianet@telecable.es
+Usuario Registrado Linux #315313
+
+From nobody Mon Sep 29 11:50:21 2003
+Received: (qmail 65901 invoked from network); 29 Sep 2003 15:49:49 -0000
+Received: from unknown (HELO cmr-213-141-48-245.telecable.es) (213.141.48.245)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	29 Sep 2003 15:49:49 -0000
+Received: from telecable.es (IDENT:alberto@localhost.localdomain [127.0.0.1])
+	by cmr-213-141-48-245.telecable.es (8.9.3/8.9.3) with ESMTP id
+	RAA01841 for <mozillaes@mozdev.org>; Mon, 29 Sep 2003 17:58:37 +0200
+Message-ID: <3F7856AC.700@telecable.es>
+Date: Mon, 29 Sep 2003 17:58:36 +0200
+From: =?ISO-8859-1?Q?Alberto_Garc=EDa_Fern=E1ndez?= <algarcianet@telecable.es>
+User-Agent: Mozilla/5.0 (X11; U; Linux i586; es-ES; rv:1.2.1) Gecko/20021130
+X-Accept-Language: es-es, es, en-us, en
+MIME-Version: 1.0
+To: mozillaes@mozdev.org
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+Subject: [MozillaES] Presuntos problemas al responder mensajes en esta lista
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: Mozilla en Espa&#241;ol  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Mon, 29 Sep 2003 15:49:50 -0000
+
+Hola:
+
+Parece que hay un problema en la configuración de la lista. Yo ya me 
+había fijado que al responder a un mensaje, no respondes a la lista, 
+sino al autor. No aparece el campo "Responder a:" Entonces tienes que 
+cambiar el destinatario. Me acordé entonces que a Óscar le había pasado 
+algo así también, al ir a responder un mensaje. Y ahora veo, que tanto 
+Óscar, como Álvaro me han respondido un mensaje, pero no sale en los 
+archivos de la lista. ¿Sólo me llegó a mi, entonces? Álvaro, ¿puedes 
+mirar cómo es ésto? A ver que pasa.
+
+Atte.,
+
+-- 
+Alberto García Fernández
+algarcianet@telecable.es
+Usuario Registrado Linux #315313
+
+
+From nobody Mon Sep 29 12:10:13 2003
+Received: (qmail 68048 invoked from network); 29 Sep 2003 16:09:40 -0000
+Received: from unknown (HELO blackice.aycuens.com) (80.224.105.77)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	29 Sep 2003 16:09:40 -0000
+Received: (from firewall@localhost)
+	by blackice.aycuens.com (8.9.3/AYCUENSøSMAP) id SAA10205
+	( Zombificad0}:| ) for <mozillaes@mozdev.org>; Mon, 29 Sep 2003 18:06:30 +0200
+X-Complaints-To: abuse@aycuens.com
+X-Url: http://www.aycuens.com
+Received: from devastator.aycuens.com(192.168.2.10) by blackice.aycuens.com
+	via smap (V2.1) id sma010202; Mon, 29 Sep 03 18:05:48 +0200
+Message-ID: <3F785851.1020400@aycuens.com>
+Date: Mon, 29 Sep 2003 18:05:37 +0200
+From: "Alvaro Munoz-Aycuens Mtnz." <alvarolists@aycuens.com>
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.5b) Gecko/20030913
+X-Accept-Language: en-us, en, es
+MIME-Version: 1.0
+To: mozillaes@mozdev.org
+Subject: Re: [MozillaES] Presuntos problemas al responder mensajes en esta
+	lista
+References: <3F7856AC.700@telecable.es>
+In-Reply-To: <3F7856AC.700@telecable.es>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+List-Id: Mozilla en Espa&#241;ol  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Mon, 29 Sep 2003 16:09:41 -0000
+
+Voy a mirar se que la opción esta, me la debí de pasar.
+
+Alberto García Fernández wrote:
+> Hola:
+> 
+> Parece que hay un problema en la configuración de la lista. Yo ya me 
+> había fijado que al responder a un mensaje, no respondes a la lista, 
+> sino al autor. No aparece el campo "Responder a:" Entonces tienes que 
+> cambiar el destinatario. Me acordé entonces que a Óscar le había pasado 
+> algo así también, al ir a responder un mensaje. Y ahora veo, que tanto 
+> Óscar, como Álvaro me han respondido un mensaje, pero no sale en los 
+> archivos de la lista. ¿Sólo me llegó a mi, entonces? Álvaro, ¿puedes 
+> mirar cómo es ésto? A ver que pasa.
+> 
+> Atte.,
+> 
+
+
+From nobody Thu Oct  2 05:25:08 2003
+Received: (qmail 76878 invoked from network); 2 Oct 2003 09:24:35 -0000
+Received: from unknown (HELO blackice.aycuens.com) (80.224.105.77)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	2 Oct 2003 09:24:35 -0000
+Received: (from firewall@localhost)
+	by blackice.aycuens.com (8.9.3/AYCUENSøSMAP) id LAA02188
+	( Zombificad0}:| ) for <mozillaes@mozdev.org>; Thu, 2 Oct 2003 11:21:10 +0200
+X-Complaints-To: abuse@aycuens.com
+X-Url: http://www.aycuens.com
+Received: from airp.net.aycuens.com(192.168.2.253) by blackice.aycuens.com via
+	smap (V2.1) id sma002185; Thu, 2 Oct 03 11:20:41 +0200
+Message-ID: <3F7BEDDA.6050805@aycuens.com>
+Date: Thu, 02 Oct 2003 11:20:26 +0200
+From: Alvaro Munoz-Aycuens Martinez <alvarolists@aycuens.com>
+User-Agent: Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US;
+	rv:1.5) Gecko/20030925
+X-Accept-Language: en-us, es-es, en
+MIME-Version: 1.0
+To: mozillaes@mozdev.org
+Content-Type: text/plain; charset=us-ascii; format=flowed
+Content-Transfer-Encoding: 7bit
+Subject: [MozillaES] Ultimos cambios
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+List-Id: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?=  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Thu, 02 Oct 2003 09:24:36 -0000
+
+Hola a todos,
+
+Ya estan los ultimos cambios que todos habeis ido recomendando y algunas 
+cosas mas, si os parece bien podemos  ponernos con la fase de 
+lanzamiento del proyecto ;) asi nos podemos dedicar a desarollar los 
+proyectos y contenidos.
+
+Un Saludo
+
+Alvaro
+
+
+From nobody Thu Oct  2 14:34:54 2003
+Received: (qmail 17171 invoked from network); 2 Oct 2003 18:34:22 -0000
+Received: from unknown (HELO oscar.omgs.es) (217.125.116.214)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	2 Oct 2003 18:34:22 -0000
+Received: from 214.red-217-125-116.pooles.rima-tde.net ([217.125.116.214]
+	helo=escomposlinux.org)
+	by oscar.omgs.es with esmtp (Exim 3.35 #1 (Debian))
+	id 1A58AB-0002lT-00
+	for <mozillaes@mozdev.org>; Thu, 02 Oct 2003 20:26:55 +0200
+Message-ID: <3F7C6DEE.5040807@escomposlinux.org>
+Date: Thu, 02 Oct 2003 20:26:54 +0200
+From: =?ISO-8859-1?Q?Oscar_Manuel_G=F3mez_Senovilla?= <omgs@escomposlinux.org>
+Organization: Estoy harto de spammers
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; es-ES; rv:1.4) Gecko/20030625
+X-Accept-Language: es, es-es, en, es-mx
+MIME-Version: 1.0
+To: =?ISO-8859-1?Q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+Subject: Re: [MozillaES] Ultimos cambios
+References: <3F7BEDDA.6050805@aycuens.com>
+In-Reply-To: <3F7BEDDA.6050805@aycuens.com>
+X-Enigmail-Version: 0.76.0.0
+X-Enigmail-Supports: pgp-inline, pgp-mime
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+List-Id: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?=  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Thu, 02 Oct 2003 18:34:23 -0000
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Alvaro Munoz-Aycuens Martinez escribi=F3:
+> Hola a todos,
+>
+> Ya estan los ultimos cambios que todos habeis ido recomendando y alguna=
+s
+> cosas mas, si os parece bien podemos  ponernos con la fase de
+> lanzamiento del proyecto ;) asi nos podemos dedicar a desarollar los
+> proyectos y contenidos.
+
+El p=E1rrafo de los objetivos est=E1 bien, pero prefer=EDa hacer m=E1s hi=
+ncapi=E9
+en el tema de la documentaci=F3n de usuario. Algo as=ED:
+"Dentro de MozillaES tiene cabida cualquier proyecto o recurso que este
+relacionado con Mozilla en el idioma Espa=F1ol. Se tratar=E1n
+=BFprincipalmente/b=E1sicamente? temas de documentaci=F3n, tanto de usuar=
+io
+final (gu=EDas, trucos, etc) como t=E9cnica. Tambi=E9n habr=E1 reportajes=
+,
+evangelizaci=F3n, noticias, actividades relacionadas con los diferentes
+proyectos de traducci=F3n.". Corrigiendo la duda que expreso (que incluso=
+
+se podr=EDa suprimir, es una opci=F3n), por m=ED, adelante.
+
+Quiero matizar que no estoy seguro a qu=E9 se refiere lo de reportajes,
+incluso si fuera necesario de "reportajes y noticas" o algo as=ED, para
+que no quede redundante nada m=E1s.
+
+
+A ver si hoy saco m=E1s cosas del Manual, que creo que hoy por fin puedo
+dedicarle alguna hora que otra.
+
+
+Saludos.
+
+- --
+|----------------------------------------------------------------------|
+| http://counter.li.org info: Linux user: 92390 - Linux machine: 39301 |
+|     Oscar Manuel G=F3mez Senovilla - mailto:omgs@escomposlinux.org     =
+|
+|               GPG Key at http://pgp.escomposlinux.org                |
+|----------------------------------------------------------------------|
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.1 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+
+iD8DBQE/fG3tQpr3kykd/aQRAl51AJ9ueOFlIZmiPZekSrYrxxtc8sf8IwCghbMX
+lr1AXq00z1KD+0OBgG/cu4k=3D
+=3Dru0N
+-----END PGP SIGNATURE-----
+
+
+From nobody Thu Oct  2 15:45:05 2003
+Received: (qmail 22166 invoked from network); 2 Oct 2003 19:44:30 -0000
+Received: from unknown (HELO blackice.aycuens.com) (80.224.105.77)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	2 Oct 2003 19:44:30 -0000
+Received: (from firewall@localhost)
+	by blackice.aycuens.com (8.9.3/AYCUENSøSMAP) id VAA05754
+	( Zombificad0}:| ) for <mozillaes@mozdev.org>; Thu, 2 Oct 2003 21:41:16 +0200
+X-Complaints-To: abuse@aycuens.com
+X-Url: http://www.aycuens.com
+Received: from devastator.aycuens.com(192.168.2.10) by blackice.aycuens.com
+	via smap (V2.1) id sma005751; Thu, 2 Oct 03 21:40:33 +0200
+Message-ID: <3F7C7F16.8060404@aycuens.com>
+Date: Thu, 02 Oct 2003 21:40:06 +0200
+From: "Alvaro Munoz-Aycuens Mtnz." <alvarolists@aycuens.com>
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.5b) Gecko/20030913
+X-Accept-Language: en-us, en, es
+MIME-Version: 1.0
+To: =?ISO-8859-1?Q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+Subject: Re: [MozillaES] Ultimos cambios
+References: <3F7BEDDA.6050805@aycuens.com> <3F7C6DEE.5040807@escomposlinux.org>
+In-Reply-To: <3F7C6DEE.5040807@escomposlinux.org>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+List-Id: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?=  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Thu, 02 Oct 2003 19:44:33 -0000
+
+Voy a ver como modifico la frase para hacer incapie en lo de la 
+documentación con los puntos que dices, la idea del segundo párrafo es 
+que quede claro que dentro de Mozillaes puede haber proyectos y recursos 
+de distinto tipo y condición, esta claro que con lo que ahora mismo esta 
+incluido (dentro del menú proyectos) se da a entender eso.
+Lo de reportajes te puedes imaginar que es por que no encontraba la 
+palabra adecuada que sirviera para englobar lo que seria documentación 
+de usuario final a modo de guia rápida sobre funcionalidades o 
+productos, vamos como el típico reportaje de revista de informática :)
+
+A ver si lo hago de aquí al fin de semana, que no voy a tener acceso a 
+Internet durante el finde.
+
+Saludos
+
+
+Alvaro
+
+
+Oscar Manuel Gómez Senovilla wrote:
+> -----BEGIN PGP SIGNED MESSAGE-----
+> Hash: SHA1
+> 
+> Alvaro Munoz-Aycuens Martinez escribió:
+> 
+>>Hola a todos,
+>>
+>>Ya estan los ultimos cambios que todos habeis ido recomendando y algunas
+>>cosas mas, si os parece bien podemos  ponernos con la fase de
+>>lanzamiento del proyecto ;) asi nos podemos dedicar a desarollar los
+>>proyectos y contenidos.
+> 
+> 
+> El párrafo de los objetivos está bien, pero prefería hacer más hincapié
+> en el tema de la documentación de usuario. Algo así:
+> "Dentro de MozillaES tiene cabida cualquier proyecto o recurso que este
+> relacionado con Mozilla en el idioma Español. Se tratarán
+> ¿principalmente/básicamente? temas de documentación, tanto de usuario
+> final (guías, trucos, etc) como técnica. También habrá reportajes,
+> evangelización, noticias, actividades relacionadas con los diferentes
+> proyectos de traducción.". Corrigiendo la duda que expreso (que incluso
+> se podría suprimir, es una opción), por mí, adelante.
+> 
+> Quiero matizar que no estoy seguro a qué se refiere lo de reportajes,
+> incluso si fuera necesario de "reportajes y noticas" o algo así, para
+> que no quede redundante nada más.
+> 
+> 
+> A ver si hoy saco más cosas del Manual, que creo que hoy por fin puedo
+> dedicarle alguna hora que otra.
+> 
+> 
+> Saludos.
+> 
+> - --
+> |----------------------------------------------------------------------|
+> | http://counter.li.org info: Linux user: 92390 - Linux machine: 39301 |
+> |     Oscar Manuel Gómez Senovilla - mailto:omgs@escomposlinux.org     |
+> |               GPG Key at http://pgp.escomposlinux.org                |
+> |----------------------------------------------------------------------|
+> -----BEGIN PGP SIGNATURE-----
+> Version: GnuPG v1.2.1 (GNU/Linux)
+> Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+> 
+> iD8DBQE/fG3tQpr3kykd/aQRAl51AJ9ueOFlIZmiPZekSrYrxxtc8sf8IwCghbMX
+> lr1AXq00z1KD+0OBgG/cu4k=
+> =ru0N
+> -----END PGP SIGNATURE-----
+> 
+> _______________________________________________
+> Mozillaes mailing list
+> Mozillaes@mozdev.org
+> http://mozdev.org/mailman/listinfo/mozillaes
+> 
+> 
+
+
+From nobody Fri Oct  3 00:17:38 2003
+Received: (qmail 56998 invoked from network); 3 Oct 2003 04:17:05 -0000
+Received: from unknown (HELO martina.dattaservers.com) (207.44.236.87)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	3 Oct 2003 04:17:05 -0000
+Received: from dup-200-65-228-17.prodigy.net.mx ([200.65.228.17] helo=ismx.net)
+	by martina.dattaservers.com with asmtp (Exim 4.24)
+	id 1A5HJd-0006sP-Sg
+	for mozillaes@mozdev.org; Fri, 03 Oct 2003 01:13:18 -0300
+Message-ID: <3F7D055E.1000700@ismx.net>
+Date: Thu, 02 Oct 2003 23:13:02 -0600
+From: =?ISO-8859-1?Q?Alejandro_Serrano_Gonz=E1lez?= <ale@ismx.net>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; es-MX;
+	rv:1.5) Gecko/20030916
+X-Accept-Language: es-mx, es-es, en, en-us
+MIME-Version: 1.0
+To: =?ISO-8859-1?Q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+References: <3F7BEDDA.6050805@aycuens.com> <3F7C6DEE.5040807@escomposlinux.org>
+	<3F7C7F16.8060404@aycuens.com>
+In-Reply-To: <3F7C7F16.8060404@aycuens.com>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse,
+	please include it with any abuse report
+X-AntiAbuse: Primary Hostname - martina.dattaservers.com
+X-AntiAbuse: Original Domain - mozdev.org
+X-AntiAbuse: Originator/Caller UID/GID - [0 0] / [47 12]
+X-AntiAbuse: Sender Address Domain - ismx.net
+Subject: [MozillaES] 404 y propuesta
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+List-Id: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?=  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Fri, 03 Oct 2003 04:17:06 -0000
+
+Bueno, ahí va un 404 :-)
+       dice:                  http://www.lambdoctikus.iespana.es/
+       debe decir:        http://lambdoctikus.iespana.es/lambdoctikus/
+
+Por otro lado, tengo un planteamiento... no se si es adecuado como 
+previo a la fase de publicación, o quedará como sub-proyecto :-P:
+
+De hace algunos días estuvimos pensando (con Alberto) que hace falta 
+poner en línea una traducción de mozilla.org, cuando menos la página 
+principal, y adaptarla a la documentación en español, las descargas de 
+localizaciones en español (links directos con enlace a las páginas de 
+los traductores), ir poco a poco traduciendo las páginas dentro de 
+mozilla, de tal manera que se vea mas integración entre este proyecto y 
+mozilla, de hecho, lo que me hace proponerlo en este momento es en gran 
+parte, la idea que hace algunos dias se volcó en la lista 
+(Ricardo/Bernardo - 29/09) en cuanto a la necesidad en mozilla de 
+"aprovechar la contribución de las localizaciones". De alguna manera es 
+comenzar a trabajar sobre los contenidos ya existentes para que cuando 
+se solicite la colaboración, tengamos ya algo avanzado. Y sobre todo 
+dariamos una mejor imágen de este proyecto para usuarios no avanzados, o 
+que no utilizan mozilla para los que en este momento el diseño no es 
+atractivo.
+
+Sé que ya platiqué con ambos (Oscar y Alvaro) y lo que digo es que 
+comprendo perfectamente sus razones, sé que es mas importante el 
+contenido que la forma, y que es bueno mantener el diseño actual para 
+estar dentro del estándar w3c...pero también es cierto que la imágen o 
+el diseño actual no es nada atractivo para la mayoría de los usuarios, 
+sobre a los que podemos/queremos  llegar y que por ejemplo tomando el 
+código de mozilla.org (que también cumple con los estándares), no lo 
+perderemos.
+
+No se si es objetivo de este proyecto difundir Mozilla, o facilitar al 
+usuario la experiencia con Mozilla, pero creo que este proyecto puede 
+hacer ambas cosas, sobre todo porque al facilitarle la experiencia al 
+usuario podemos lograr no solo el uso sino también la promoción de 
+Mozilla. La verdad, si no fuera yo un "entusiasta" de Mozilla, los 
+"textos" que se estan presentando en la página del proyecto, 
+sinceramente, ni siquiera los hubiera leido... pero bueno... es cuestión 
+de tiempo y como ya todos me dijeron, no me debo desesperar porque aqui 
+todo va leeeento.
+
+Espero no sonar ofensivo en ningún momento, sobre todo por la diferencia 
+cultural :-) , lo que digo, lo digo con todas las ganas de mejorar las 
+cosas...
+
+Saludos...
+Alejandro Serrano G.
+
+
+From nobody Fri Oct  3 04:51:06 2003
+Received: (qmail 78266 invoked from network); 3 Oct 2003 08:50:34 -0000
+Received: from unknown (HELO oscar.omgs.es) (217.125.116.214)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	3 Oct 2003 08:50:34 -0000
+Received: from 214.red-217-125-116.pooles.rima-tde.net ([217.125.116.214]
+	helo=escomposlinux.org)
+	by oscar.omgs.es with esmtp (Exim 3.35 #1 (Debian))
+	id 1A5LaM-00081J-00
+	for <mozillaes@mozdev.org>; Fri, 03 Oct 2003 10:46:50 +0200
+Message-ID: <3F7D377A.9050406@escomposlinux.org>
+Date: Fri, 03 Oct 2003 10:46:50 +0200
+From: =?ISO-8859-1?Q?Oscar_Manuel_G=F3mez_Senovilla?= <omgs@escomposlinux.org>
+Organization: Estoy harto de spammers
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; es-ES; rv:1.4) Gecko/20030625
+X-Accept-Language: es, es-es, en, es-mx
+MIME-Version: 1.0
+To: =?ISO-8859-1?Q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+Subject: Re: [MozillaES] 404 y propuesta
+References: <3F7BEDDA.6050805@aycuens.com>
+	<3F7C6DEE.5040807@escomposlinux.org>	<3F7C7F16.8060404@aycuens.com>
+	<3F7D055E.1000700@ismx.net>
+In-Reply-To: <3F7D055E.1000700@ismx.net>
+X-Enigmail-Version: 0.76.0.0
+X-Enigmail-Supports: pgp-inline, pgp-mime
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+List-Id: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?=  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Fri, 03 Oct 2003 08:50:35 -0000
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Alejandro Serrano Gonz=E1lez escribi=F3:
+> Bueno, ah=ED va un 404 :-)
+>       dice:                  http://www.lambdoctikus.iespana.es/
+>       debe decir:        http://lambdoctikus.iespana.es/lambdoctikus/
+
+
+Bueno, si se encarga Alvaro de corregirlo, bien. Si no, a partir de esta
+tarde-noche lo puedo corregir yo.
+
+
+> Por otro lado, tengo un planteamiento... no se si es adecuado como
+> previo a la fase de publicaci=F3n, o quedar=E1 como sub-proyecto :-P:
+
+
+Veamos.
+
+
+> De hace algunos d=EDas estuvimos pensando (con Alberto) que hace falta
+> poner en l=EDnea una traducci=F3n de mozilla.org, cuando menos la p=E1g=
+ina
+> principal, y adaptarla a la documentaci=F3n en espa=F1ol, las descargas=
+ de
+> localizaciones en espa=F1ol (links directos con enlace a las p=E1ginas =
+de
+> los traductores), ir poco a poco traduciendo las p=E1ginas dentro de
+> mozilla, de tal manera que se vea mas integraci=F3n entre este proyecto=
+ y
+> mozilla, de hecho, lo que me hace proponerlo en este momento es en gran=
+
+> parte, la idea que hace algunos dias se volc=F3 en la lista
+> (Ricardo/Bernardo - 29/09) en cuanto a la necesidad en mozilla de
+> "aprovechar la contribuci=F3n de las localizaciones". De alguna manera =
+es
+> comenzar a trabajar sobre los contenidos ya existentes para que cuando
+> se solicite la colaboraci=F3n, tengamos ya algo avanzado. Y sobre todo
+> dariamos una mejor im=E1gen de este proyecto para usuarios no avanzados=
+, o
+> que no utilizan mozilla para los que en este momento el dise=F1o no es
+> atractivo.
+
+
+A m=ED la idea no me parece mal, pero le veo un problema, y es que quiz=E1=
+s
+esa parte est=E9 m=E1s en consonancia con los objetivos iniciales de moze=
+s
+("traducir" documentaci=F3n de mozilla), que en este aspecto tiene
+preferencia, ya que es un proyecto muy anterior, y es precisamente lo
+que en todo este tiempo se est=E1 intentando evitar: que se "pisen" los
+objetivos de ambos proyectos.
+
+Mi opini=F3n (habr=EDa que esperar a ver qu=E9 opina Alvaro) es que consu=
+lteis
+con Bernardo si entra en los objetivos _iniciales_ de mozes la
+traducci=F3n de mozilla.org, recordando por ejemplo que los temas a trata=
+r
+van algo m=E1s all=E1 de mozilla. El punto "d=E9bil" es que, debido a la
+propia indefinici=F3n de mozes, no se puede asegurar si lo est=E1 o no lo=
+
+est=E1, pero con la poca definici=F3n habida, se dej=F3 claro que no hab=ED=
+a
+cabida para otros productos. Entonces, ante un posible "bueno, he
+cambiado de opini=F3n y ahora s=ED entran m=E1s productos", es lo que hab=
+r=EDa
+que plantearnos aqu=ED _antes_ de consultar con mozes (si es que se
+considera finalmente que hay que consultarlo en vez de alojarlo
+directamente).
+
+
+
+Saludos.
+
+
+PD: =C9ste es un ejemplo de lo necesarios que son los m=F3dulos, a los
+cuales creo que no tenemos acceso. Alvaro, =BFpuedes consultar si podemos=
+
+crear m=F3dulos, ya que no tenemos el CVSROOT?
+
+- --
+|----------------------------------------------------------------------|
+| http://counter.li.org info: Linux user: 92390 - Linux machine: 39301 |
+|     Oscar Manuel G=F3mez Senovilla - mailto:omgs@escomposlinux.org     =
+|
+|               GPG Key at http://pgp.escomposlinux.org                |
+|----------------------------------------------------------------------|
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.1 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+
+iD8DBQE/fTd5Qpr3kykd/aQRAqz+AJ9UBg2se5isTzjt03ZtxXNYpzoyEQCfUL2X
+zAaL4Asc0RaimoZbnbMRNwM=3D
+=3DQn6W
+-----END PGP SIGNATURE-----
+
+
+From nobody Fri Oct  3 19:51:12 2003
+Received: (qmail 46852 invoked from network); 3 Oct 2003 23:50:38 -0000
+Received: from unknown (HELO cmr-213-141-53-10.telecable.es) (213.141.53.10)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	3 Oct 2003 23:50:38 -0000
+Received: from telecable.es (IDENT:alberto@localhost.localdomain [127.0.0.1])
+	by cmr-213-141-53-10.telecable.es (8.9.3/8.9.3) with ESMTP id
+	BAA00776 for <mozillaes@mozdev.org>; Sat, 4 Oct 2003 01:59:31 +0200
+Message-ID: <3F7E0D61.1050603@telecable.es>
+Date: Sat, 04 Oct 2003 01:59:29 +0200
+From: =?ISO-8859-1?Q?Alberto_Garc=EDa_Fern=E1ndez?= <algarcianet@telecable.es>
+User-Agent: Mozilla/5.0 (X11; U; Linux i586; es-ES; rv:1.2.1) Gecko/20021130
+X-Accept-Language: es-es, es, en-us, en
+MIME-Version: 1.0
+To: =?ISO-8859-1?Q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+Subject: Re: [MozillaES] 404 y propuesta
+References: <3F7BEDDA.6050805@aycuens.com>	<3F7C6DEE.5040807@escomposlinux.org>	<3F7C7F16.8060404@aycuens.com>	<3F7D055E.1000700@ismx.net>
+	<3F7D377A.9050406@escomposlinux.org>
+In-Reply-To: <3F7D377A.9050406@escomposlinux.org>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+List-Id: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?=  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Fri, 03 Oct 2003 23:50:39 -0000
+
+
+
+Oscar Manuel Gómez Senovilla escribió:
+> -----BEGIN PGP SIGNED MESSAGE-----
+> Hash: SHA1
+> 
+> Alejandro Serrano González escribió:
+> 
+>>Bueno, ahí va un 404 :-)
+>>      dice:                  http://www.lambdoctikus.iespana.es/
+>>      debe decir:        http://lambdoctikus.iespana.es/lambdoctikus/
+> 
+> 
+> 
+> Bueno, si se encarga Alvaro de corregirlo, bien. Si no, a partir de esta
+> tarde-noche lo puedo corregir yo.
+> 
+> 
+> 
+>>Por otro lado, tengo un planteamiento... no se si es adecuado como
+>>previo a la fase de publicación, o quedará como sub-proyecto :-P:
+> 
+> 
+> 
+> Veamos.
+> 
+> 
+> 
+>>De hace algunos días estuvimos pensando (con Alberto) que hace falta
+>>poner en línea una traducción de mozilla.org, cuando menos la página
+>>principal, y adaptarla a la documentación en español, las descargas de
+>>localizaciones en español (links directos con enlace a las páginas de
+>>los traductores), ir poco a poco traduciendo las páginas dentro de
+>>mozilla, de tal manera que se vea mas integración entre este proyecto y
+>>mozilla, de hecho, lo que me hace proponerlo en este momento es en gran
+>>parte, la idea que hace algunos dias se volcó en la lista
+>>(Ricardo/Bernardo - 29/09) en cuanto a la necesidad en mozilla de
+>>"aprovechar la contribución de las localizaciones". De alguna manera es
+>>comenzar a trabajar sobre los contenidos ya existentes para que cuando
+>>se solicite la colaboración, tengamos ya algo avanzado. Y sobre todo
+>>dariamos una mejor imágen de este proyecto para usuarios no avanzados, o
+>>que no utilizan mozilla para los que en este momento el diseño no es
+>>atractivo.
+> 
+> 
+> 
+> A mí la idea no me parece mal, pero le veo un problema, y es que quizás
+> esa parte esté más en consonancia con los objetivos iniciales de mozes
+> ("traducir" documentación de mozilla), que en este aspecto tiene
+> preferencia, ya que es un proyecto muy anterior, y es precisamente lo
+> que en todo este tiempo se está intentando evitar: que se "pisen" los
+> objetivos de ambos proyectos.
+> 
+> Mi opinión (habría que esperar a ver qué opina Alvaro) es que consulteis
+> con Bernardo si entra en los objetivos _iniciales_ de mozes la
+> traducción de mozilla.org, recordando por ejemplo que los temas a tratar
+> van algo más allá de mozilla. El punto "débil" es que, debido a la
+> propia indefinición de mozes, no se puede asegurar si lo está o no lo
+> está, pero con la poca definición habida, se dejó claro que no había
+> cabida para otros productos. Entonces, ante un posible "bueno, he
+> cambiado de opinión y ahora sí entran más productos", es lo que habría
+> que plantearnos aquí _antes_ de consultar con mozes (si es que se
+> considera finalmente que hay que consultarlo en vez de alojarlo
+> directamente).
+> 
+> 
+
+Todo depende de lo que se considere que sea "documentación de Mozilla". 
+La página principal y documentos de mozilla.org, como por ejemplo la 
+sección de "At A Glance", yo no lo considero documentación de Mozilla. 
+Entiendo que los obejetivos de mozes, (traducción de la página de 
+inicio, y documentación relevante de usuario final de mozilla.org), se 
+refiere a documentación relativa a el/los producto(s), no a la 
+organización que los crea. Sin embargo, sí que me parece bien, y 
+correcto preguntar primero. De hecho, anteriormente propuse discutir 
+entre todos los actores implicados, en la lista de NAVE, los objetivos 
+que abarcaban cada uno de los proyectos en cuestión.
+
+Aprovecho para decir, que voy a estar una temporada (no sé cuanto 
+tiempo) un poco menos metido en todo ésto. Ahora mismo, tengo otras 
+preocupaciones en mi vida, a las que voy a dar prioridad. Lo siento 
+mucho. Espero no desaparecer del todo, pero sí que voy a estar una 
+temporada, que ya digo no sé cuanto podrá durar, menos activo.
+
+Suerte con todo, a todos los proyectos y a todos.
+
+> 
+> Saludos.
+> 
+> 
+> PD: Éste es un ejemplo de lo necesarios que son los módulos, a los
+> cuales creo que no tenemos acceso. Alvaro, ¿puedes consultar si podemos
+> crear módulos, ya que no tenemos el CVSROOT?
+> 
+> - --
+> |----------------------------------------------------------------------|
+> | http://counter.li.org info: Linux user: 92390 - Linux machine: 39301 |
+> |     Oscar Manuel Gómez Senovilla - mailto:omgs@escomposlinux.org     |
+> |               GPG Key at http://pgp.escomposlinux.org                |
+> |----------------------------------------------------------------------|
+> -----BEGIN PGP SIGNATURE-----
+> Version: GnuPG v1.2.1 (GNU/Linux)
+> Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+> 
+> iD8DBQE/fTd5Qpr3kykd/aQRAqz+AJ9UBg2se5isTzjt03ZtxXNYpzoyEQCfUL2X
+> zAaL4Asc0RaimoZbnbMRNwM=
+> =Qn6W
+> -----END PGP SIGNATURE-----
+> 
+> _______________________________________________
+> Mozillaes mailing list
+> Mozillaes@mozdev.org
+> http://mozdev.org/mailman/listinfo/mozillaes
+> 
+> 
+
+-- 
+Alberto García Fernández
+algarcianet@telecable.es
+Usuario Registrado Linux #315313
+
+
+From nobody Sat Oct 11 07:30:24 2003
+Received: (qmail 66828 invoked from network); 11 Oct 2003 11:29:51 -0000
+Received: from unknown (HELO oscar.omgs.es) (217.125.116.214)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	11 Oct 2003 11:29:51 -0000
+Received: from 214.red-217-125-116.pooles.rima-tde.net ([217.125.116.214]
+	helo=escomposlinux.org)
+	by oscar.omgs.es with esmtp (Exim 3.35 #1 (Debian))
+	id 1A8HsZ-0007QR-00
+	for <mozillaes@mozdev.org>; Sat, 11 Oct 2003 13:25:47 +0200
+Message-ID: <3F87E8BB.7030908@escomposlinux.org>
+Date: Sat, 11 Oct 2003 13:25:47 +0200
+From: =?ISO-8859-1?Q?Oscar_Manuel_G=F3mez_Senovilla?= <omgs@escomposlinux.org>
+Organization: Estoy harto de spammers
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; es-ES; rv:1.4) Gecko/20030625
+X-Accept-Language: es, es-es, en, es-mx
+MIME-Version: 1.0
+To: Lista de correo mozillaES <mozillaes@mozdev.org>
+X-Enigmail-Version: 0.76.0.0
+X-Enigmail-Supports: pgp-inline, pgp-mime
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+Subject: [MozillaES] =?iso-8859-1?q?Conversi=F3n_de_documentaci=F3n?=
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+List-Id: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?=  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Sat, 11 Oct 2003 11:29:52 -0000
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Informo de que tengo listas dos partes de la gu=EDa que estaba preparando=
+,
+pero me encuentro con un problema: lo estoy haciendo con OOo1.1RC5
+(=3D1.1.0) y quer=EDa ver c=F3mo automatizar la exportaci=F3n a html para=
+ la web.
+
+Si fuera texto s=F3lo, no habr=EDa problemas, pero contiene numerosas
+im=E1genes que requieren su maquetaci=F3n, y m=E1s con vistas a posibles
+cambios, que no requieran rehacer todo de nuevo.
+
+Por todo esto, necesitar=EDa alg=FAn voluntario o sitio donde se traten
+estos temas espec=EDficos. Tambi=E9n seguramente me pondr=E9 en contacto =
+con
+la gente de lucas, que de esto entiende bastante.
+
+Saludos.
+
+- --
+|----------------------------------------------------------------------|
+| http://counter.li.org info: Linux user: 92390 - Linux machine: 39301 |
+|     Oscar Manuel G=F3mez Senovilla - mailto:omgs@escomposlinux.org     =
+|
+|               GPG Key at http://pgp.escomposlinux.org                |
+|----------------------------------------------------------------------|
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.1 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+
+iD8DBQE/h+i7Qpr3kykd/aQRAoziAJ9vSWsGMYLIdfVWJumhCleufNB1XQCgiMly
+LAG75XeQkWuVCKYNfSWMJFk=3D
+=3Draak
+-----END PGP SIGNATURE-----
+
+
+From nobody Sun Oct 12 16:56:52 2003
+Received: (qmail 13758 invoked from network); 12 Oct 2003 20:56:18 -0000
+Received: from unknown (HELO blackice.aycuens.com) (80.224.105.77)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	12 Oct 2003 20:56:18 -0000
+Received: (from firewall@localhost)
+	by blackice.aycuens.com (8.9.3/AYCUENSøSMAP) id WAA28755
+	( Zombificad0}:| ) for <mozillaes@mozdev.org>; Sun, 12 Oct 2003 22:52:44 +0200
+X-Complaints-To: abuse@aycuens.com
+X-Url: http://www.aycuens.com
+Received: from devastator.aycuens.com(192.168.2.10) by blackice.aycuens.com
+	via smap (V2.1) id sma028752; Sun, 12 Oct 03 22:52:28 +0200
+Message-ID: <3F89BEF5.9010200@aycuens.com>
+Date: Sun, 12 Oct 2003 22:52:05 +0200
+From: "Alvaro Munoz-Aycuens Mtnz." <alvarolists@aycuens.com>
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.5b) Gecko/20030913
+X-Accept-Language: en-us, en, es
+MIME-Version: 1.0
+To: mozillaes@mozdev.org
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+Subject: [MozillaES] Varios
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+List-Id: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?=  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Sun, 12 Oct 2003 20:56:19 -0000
+
+Hola a todos,
+
+He cambiado el texto de la pagina principal para reflejar el comentario 
+de Oscar, también he corregido el link que comentaba Alejandro, así pues 
+por mi parte mozillaes esta listo para ser lanzado al publico, creo que 
+seria interesante hacer el planteamiento que decía Alberto (por cierto 
+suerte con tus temas) aprovechar la puesta de largo del proyecto en la 
+lista de nave para ver como organizar los objetivos de los distintos 
+proyectos, me gustaría organizar el texto del correo ha enviar a las 
+listas de correo aquí antes, para que no se escape nada.
+
+Por otro lado sobre la propuesta de traducir el web de mozilla.org, yo 
+creo que hemos de tener en cuenta que antes de que los responsables de 
+mozilla no tomen una decisión al respecto lo mejor es solamente traducir 
+ciertos apartados del web no todo el web tal y como esta en los 
+servidores de mozilla, ya que nunca se sabe como va ir avanzando el 
+proyecto y como sera el contenido una vez que decidan como van a 
+organizar, creo se han de traducir cosas como:
+
+www.mozilla.org/roadmap.html
+www.mozilla.org/quality/
+www.mozilla.org/get-involved.html
+
+Que son el corazón de la información de mozilla.org y que si algún día 
+se llega a consolidar el tema del web en varios idiomas, tener esto sera 
+un gran paso, creo que para hacer accesible mozilla a la gente por ahora 
+con un proyecto como mozillaes o nave es suficiente, queda mucho trabajo 
+por hacer como para estar pensando en cosas como mozilla.org en español.
+
+Sobre la ayuda que ha pedido Oscar, podrías dar algo mas de información 
+sobre los problemas por pasar el documento de Openoffice o exactamente 
+que es lo que quieres hacer, tal vez lo cómodo es exportarlo a pdf, que 
+oo lo soporta, es una idea.
+
+Un Saludo
+
+Alvaro
+
+
+From nobody Sun Oct 12 17:34:00 2003
+Received: (qmail 16480 invoked from network); 12 Oct 2003 21:33:26 -0000
+Received: from unknown (HELO cmr-213-141-53-10.telecable.es) (213.141.53.10)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	12 Oct 2003 21:33:26 -0000
+Received: from telecable.es (IDENT:alberto@localhost.localdomain [127.0.0.1])
+	by cmr-213-141-53-10.telecable.es (8.9.3/8.9.3) with ESMTP id
+	XAA00889 for <mozillaes@mozdev.org>; Sun, 12 Oct 2003 23:42:27 +0200
+Message-ID: <3F89CAC2.8060801@telecable.es>
+Date: Sun, 12 Oct 2003 23:42:26 +0200
+From: =?ISO-8859-1?Q?Alberto_Garc=EDa_Fern=E1ndez?= <algarcianet@telecable.es>
+User-Agent: Mozilla/5.0 (X11; U; Linux i586; es-ES; rv:1.2.1) Gecko/20021130
+X-Accept-Language: es-es, es, en-us, en
+MIME-Version: 1.0
+To: =?ISO-8859-1?Q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+Subject: Re: [MozillaES] Varios
+References: <3F89BEF5.9010200@aycuens.com>
+In-Reply-To: <3F89BEF5.9010200@aycuens.com>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+List-Id: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?=  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Sun, 12 Oct 2003 21:33:27 -0000
+
+
+
+Alvaro Munoz-Aycuens Mtnz. escribió:
+> Hola a todos,
+> 
+> He cambiado el texto de la pagina principal para reflejar el comentario 
+> de Oscar, también he corregido el link que comentaba Alejandro, así pues 
+> por mi parte mozillaes esta listo para ser lanzado al publico, creo que 
+> seria interesante hacer el planteamiento que decía Alberto (por cierto 
+> suerte con tus temas) aprovechar la puesta de largo del proyecto en la 
+> lista de nave para ver como organizar los objetivos de los distintos 
+> proyectos, me gustaría organizar el texto del correo ha enviar a las 
+> listas de correo aquí antes, para que no se escape nada.
+> 
+
+Se puede pasar por aquí si quieres, primero, sí.
+
+> Por otro lado sobre la propuesta de traducir el web de mozilla.org, yo 
+> creo que hemos de tener en cuenta que antes de que los responsables de 
+> mozilla no tomen una decisión al respecto lo mejor es solamente traducir 
+> ciertos apartados del web no todo el web tal y como esta en los 
+> servidores de mozilla, ya que nunca se sabe como va ir avanzando el 
+> proyecto y como sera el contenido una vez que decidan como van a 
+> organizar, creo se han de traducir cosas como:
+> 
+> www.mozilla.org/roadmap.html
+> www.mozilla.org/quality/
+> www.mozilla.org/get-involved.html
+> 
+> Que son el corazón de la información de mozilla.org y que si algún día 
+> se llega a consolidar el tema del web en varios idiomas, tener esto sera 
+> un gran paso, creo que para hacer accesible mozilla a la gente por ahora 
+> con un proyecto como mozillaes o nave es suficiente, queda mucho trabajo 
+> por hacer como para estar pensando en cosas como mozilla.org en español.
+> 
+
+Traducir el sitio entero pues sí que es imposible.
+
+A esas páginas que mencionas se pueden unir algunas de de las que salen en:
+
+- At A Glance <http://www.mozilla.org/mozorg.html>
+
+- Why Use Mozilla <http://www.mozilla.org/why/> (Quziás esto sería 
+competencia de MozES, más bien).
+
+No todas, pero sí algunas cosas como la misión de mozilla.org, el por 
+qué de Mozilla para el usuario (quizás es competencia de MozES), y cosas 
+así por el estilo.
+
+El otro día hice una traducción de la nota de prensa con el anuncio de 
+la creación de la Fundación Mozilla. No está rematada la traducción. 
+Hace ya un poco de tiempo que tuvo lugar eso, pero bueno. Lo hice para 
+ver como quedaría una anuncio así en castellano.
+
+Ahora es tiempo también, de que se propongan y discutan en esta lista el 
+sitema de organización interno para este proyecto.
+
+Atte.,
+
+-- 
+Alberto García Fernández
+algarcianet@telecable.es
+Usuario Registrado Linux #315313
+
+
+
+From nobody Sun Oct 12 19:28:49 2003
+Received: (qmail 25301 invoked from network); 12 Oct 2003 23:28:13 -0000
+Received: from unknown (HELO oscar.omgs.es) (217.125.116.214)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	12 Oct 2003 23:28:13 -0000
+Received: from 214.red-217-125-116.pooles.rima-tde.net ([217.125.116.214]
+	helo=escomposlinux.org)
+	by oscar.omgs.es with esmtp (Exim 3.35 #1 (Debian))
+	id 1A8pZD-0004QA-00
+	for <mozillaes@mozdev.org>; Mon, 13 Oct 2003 01:24:03 +0200
+Message-ID: <3F89E292.7060200@escomposlinux.org>
+Date: Mon, 13 Oct 2003 01:24:02 +0200
+From: =?ISO-8859-1?Q?Oscar_Manuel_G=F3mez_Senovilla?= <omgs@escomposlinux.org>
+Organization: Estoy harto de spammers
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; es-ES; rv:1.4) Gecko/20030625
+X-Accept-Language: es, es-es, en, es-mx
+MIME-Version: 1.0
+To: =?ISO-8859-1?Q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+Subject: Re: [MozillaES] Varios
+References: <3F89BEF5.9010200@aycuens.com>
+In-Reply-To: <3F89BEF5.9010200@aycuens.com>
+X-Enigmail-Version: 0.76.0.0
+X-Enigmail-Supports: pgp-inline, pgp-mime
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+List-Id: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?=  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Sun, 12 Oct 2003 23:28:17 -0000
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Alvaro Munoz-Aycuens Mtnz. escribi=F3:
+> Hola a todos,
+>
+> He cambiado el texto de la pagina principal para reflejar el comentario=
+
+> de Oscar, tambi=E9n he corregido el link que comentaba Alejandro, as=ED=
+ pues
+> por mi parte mozillaes esta listo para ser lanzado al publico, creo que=
+
+> seria interesante hacer el planteamiento que dec=EDa Alberto (por ciert=
+o
+> suerte con tus temas) aprovechar la puesta de largo del proyecto en la
+> lista de nave para ver como organizar los objetivos de los distintos
+> proyectos, me gustar=EDa organizar el texto del correo ha enviar a las
+> listas de correo aqu=ED antes, para que no se escape nada.
+
+
+Pues se han juntado varias circunstancias que lo hacen m=E1s propicio
+todav=EDa, y es que est=E1n apareciendo personas por NAVE que desean hace=
+r
+cosas, por lo que creo que, habiendo definido mejor los objetivos, es un
+buen momento para anunciar el proyecto.
+
+Creo que en el anuncio se deber=EDa hacer hincapi=E9 en el tema del contr=
+ol
+del proyecto, as=ED como la lista de ayuda (que parece que no est=E1 crea=
+da,
+pero convendr=EDa que estuviera ya creada), como reclamo extra del proyec=
+to.
+
+
+> Por otro lado sobre la propuesta de traducir el web de mozilla.org, yo
+> creo que hemos de tener en cuenta que antes de que los responsables de
+> mozilla no tomen una decisi=F3n al respecto lo mejor es solamente tradu=
+cir
+> ciertos apartados del web no todo el web tal y como esta en los
+> servidores de mozilla, ya que nunca se sabe como va ir avanzando el
+> proyecto y como sera el contenido una vez que decidan como van a
+> organizar, creo se han de traducir cosas como:
+>
+> www.mozilla.org/roadmap.html
+> www.mozilla.org/quality/
+> www.mozilla.org/get-involved.html
+
+
+Yo creo que hay que tener a disposici=F3n de los usuarios (el c=F3mo ya s=
+e
+ver=E1, aunque personalmente pensaba que mozes cubrir=EDa esa parte) esa
+_INFORMACION_, que bien podr=EDa ser una traducci=F3n literal o no, para =
+que
+los usuarios que empiezan a conocer mozilla tengan una idea un poco m=E1s=
+
+cercana de qu=E9 es mozilla.org.
+
+
+> Sobre la ayuda que ha pedido Oscar, podr=EDas dar algo mas de informaci=
+=F3n
+> sobre los problemas por pasar el documento de Openoffice o exactamente
+> que es lo que quieres hacer, tal vez lo c=F3modo es exportarlo a pdf, q=
+ue
+> oo lo soporta, es una idea.
+
+
+Yo quisiera hacer una versi=F3n html, para que se pueda ver directamente
+desde la web. S=E9 que puedo exportarlo, pero es una inc=F3gnita las
+segundas versiones (es decir, las modificaciones) no conserva la
+estructura de las veces anteriores, y simplemente buscaba una manera de,
+partiendo de un documento maquetado, exportarlo a varios formatos.
+
+Creo que el formato id=F3neo ser=EDa docbook xml, que puede exportarse
+directamente a varios formatos, pero no lo domino como para hacer
+documentaci=F3n con p=E1ginas maquetadas. Salvo que alguien sepa hacerlo,=
+
+consultar=E9 con la gente de Lucas, o incluso directamente con el propio
+Ismael Olea, lo que ocurre es que todav=EDa no he hecho las pruebas
+necesarias, pero si quieres, Alvaro, te mando uno de los dos documentos
+en OOo y tal vez puedas echar un vistazo o encontrar una soluci=F3n.
+
+
+Saludos.
+
+- --
+|----------------------------------------------------------------------|
+| http://counter.li.org info: Linux user: 92390 - Linux machine: 39301 |
+|     Oscar Manuel G=F3mez Senovilla - mailto:omgs@escomposlinux.org     =
+|
+|               GPG Key at http://pgp.escomposlinux.org                |
+|----------------------------------------------------------------------|
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.1 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+
+iD8DBQE/ieKSQpr3kykd/aQRAp32AJ4i4an9jWbBhliS9wDDBbMwnSpKrQCeIhKZ
+8PqrHW/l9Qk+ojAheUd0jGE=3D
+=3DNaBt
+-----END PGP SIGNATURE-----
+
+
+From nobody Mon Oct 13 12:43:13 2003
+Received: (qmail 9226 invoked from network); 13 Oct 2003 16:42:39 -0000
+Received: from unknown (HELO blackice.aycuens.com) (80.224.105.77)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	13 Oct 2003 16:42:39 -0000
+Received: (from firewall@localhost)
+	by blackice.aycuens.com (8.9.3/AYCUENSøSMAP) id SAA03532
+	( Zombificad0}:| ) for <mozillaes@mozdev.org>; Mon, 13 Oct 2003 18:38:56 +0200
+X-Complaints-To: abuse@aycuens.com
+X-Url: http://www.aycuens.com
+Received: from devastator.aycuens.com(192.168.2.10) by blackice.aycuens.com
+	via smap (V2.1) id sma003525; Mon, 13 Oct 03 18:38:48 +0200
+Message-ID: <3F8AD50B.7030300@aycuens.com>
+Date: Mon, 13 Oct 2003 18:38:35 +0200
+From: "Alvaro Munoz-Aycuens Mtnz." <alvarolists@aycuens.com>
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.5b) Gecko/20030913
+X-Accept-Language: en-us, en, es
+MIME-Version: 1.0
+To: mozillaes@mozdev.org
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+Subject: [MozillaES] Mensaje presentacion
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+List-Id: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?=  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Mon, 13 Oct 2003 16:42:40 -0000
+
+Hola, estaba pensando en como hacer el mensaje de presentación del 
+proyecto para además aprovecharlo para meter lo de organizar donde queda 
+cada proyecto y por otro lado después organizar mozillaes en si, sobre 
+todo no se como empezarlo para que no cause revuelo con la ultima 
+discusión de nave (ver Distribución de Mozilla), a ver si conseguimos 
+mover ciertos temas y discusiones de la lista de nave a mozillaes.
+
+---- Posible presentación
+
+El proyecto MozillaES nace con la idea de crear una comunidad de Mozilla 
+en Español, que trate de unir y promover proyectos relacionados con 
+Mozilla en Español además de apoyar el uso de Mozilla y sus productos 
+derivados.
+Tenemos los cimientos de lo que va a ser el proyecto, pero todavía no 
+hemos definido la organización interna completamente, es el momento para 
+que todos los que queráis colaborar os subscribáis a la lista para 
+empezar a discutir sobre la futura organización.
+
+Puedes encontrar mas información sobre el proyecto en:
+
+http://mozillaes.mozdev.org
+
+Un Saludo
+
+El equipo de MozillaES
+
+---------------------------------
+
+Tal vez después de esto se puede plantear la necesidad de dejar de usar 
+la lista de nave para estos temas y también los objetivos del resto de 
+proyectos, ideas, sugerencias, cambios?
+
+Un Saludo
+
+Alvaro
+
+P.D- Cuando presentemos el proyecto les pido a los de mozdev la lista de 
+ayuda.
+
+
+From nobody Mon Oct 13 14:55:35 2003
+Received: (qmail 20335 invoked from network); 13 Oct 2003 18:54:34 -0000
+Received: from unknown (HELO oscar.omgs.es) (217.125.116.214)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	13 Oct 2003 18:54:34 -0000
+Received: from 214.red-217-125-116.pooles.rima-tde.net ([217.125.116.214]
+	helo=escomposlinux.org)
+	by oscar.omgs.es with esmtp (Exim 3.35 #1 (Debian))
+	id 1A97lv-0000I4-00
+	for <mozillaes@mozdev.org>; Mon, 13 Oct 2003 20:50:23 +0200
+Message-ID: <3F8AF3EE.3050309@escomposlinux.org>
+Date: Mon, 13 Oct 2003 20:50:22 +0200
+From: =?ISO-8859-1?Q?Oscar_Manuel_G=F3mez_Senovilla?= <omgs@escomposlinux.org>
+Organization: Estoy harto de spammers
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; es-ES; rv:1.4) Gecko/20030625
+X-Accept-Language: es, es-es, en, es-mx
+MIME-Version: 1.0
+To: =?ISO-8859-1?Q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+Subject: Re: [MozillaES] Mensaje presentacion
+References: <3F8AD50B.7030300@aycuens.com>
+In-Reply-To: <3F8AD50B.7030300@aycuens.com>
+X-Enigmail-Version: 0.76.0.0
+X-Enigmail-Supports: pgp-inline, pgp-mime
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+List-Id: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?=  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Mon, 13 Oct 2003 18:54:36 -0000
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Alvaro Munoz-Aycuens Mtnz. escribi=F3:
+> Hola, estaba pensando en como hacer el mensaje de presentaci=F3n del
+> proyecto para adem=E1s aprovecharlo para meter lo de organizar donde qu=
+eda
+> cada proyecto y por otro lado despu=E9s organizar mozillaes en si, sobr=
+e
+> todo no se como empezarlo para que no cause revuelo con la ultima
+> discusi=F3n de nave (ver Distribuci=F3n de Mozilla), a ver si conseguim=
+os
+> mover ciertos temas y discusiones de la lista de nave a mozillaes.
+>
+> ---- Posible presentaci=F3n
+>
+> El proyecto MozillaES nace con la idea de crear una comunidad de Mozill=
+a
+> en Espa=F1ol, que trate de unir y promover proyectos relacionados con
+> Mozilla en Espa=F1ol adem=E1s de apoyar el uso de Mozilla y sus product=
+os
+> derivados.
+
+
+Hasta aqu=ED, perfecto.
+
+
+> Tenemos los cimientos de lo que va a ser el proyecto, pero todav=EDa no=
+
+> hemos definido la organizaci=F3n interna completamente, es el momento p=
+ara
+> que todos los que quer=E1is colaborar os subscrib=E1is a la lista para
+> empezar a discutir sobre la futura organizaci=F3n.
+
+
+Bueno, mi opini=F3n es que que se da una innecesaria sensaci=F3n de
+inseguridad. Creo que se podr=EDa quedar algo as=ED:
+
+"Tenemos los cimientos de lo que va a ser el proyecto, por lo que es el
+momento para que todos los que quer=E1is colaborar os subscrib=E1is a la
+lista para empezar a discutir sobre la futura organizaci=F3n."
+
+Y a=F1adir algo como:
+
+"Si tienes alguna inquietud sobre mozilla, alguna actividad relacionada
+con el uso y/o promoci=F3n de mozilla o cualquier producto relacionado,
+suscr=EDbete a la lista del proyecto y exp=F3n tus ideas.
+
+Tambi=E9n se va a crear una lista de ayuda al usuario final para resolver=
+
+cualquier tipo de duda o problema relacionada con mozilla. Esta lista
+todav=EDa no ha sido creada, y esperamos sugerencias sobre el nombre de l=
+a
+misma, que inicialmente se llamar=E1 mozillaes-ayuda@mozdev.org".
+
+
+> Puedes encontrar mas informaci=F3n sobre el proyecto en:
+>
+> http://mozillaes.mozdev.org
+>
+> Un Saludo
+>
+> El equipo de MozillaES
+>
+> ---------------------------------
+>
+> Tal vez despu=E9s de esto se puede plantear la necesidad de dejar de us=
+ar
+> la lista de nave para estos temas y tambi=E9n los objetivos del resto d=
+e
+> proyectos, ideas, sugerencias, cambios?
+>
+> Un Saludo
+>
+> Alvaro
+>
+> P.D- Cuando presentemos el proyecto les pido a los de mozdev la lista d=
+e
+> ayuda.
+
+
+Vale, pero no por ello hay que dejar de mencionarlo en el mensaje, ya
+que no se informa de ello en ning=FAn sitio.
+
+Saludos.
+
+- --
+|----------------------------------------------------------------------|
+| http://counter.li.org info: Linux user: 92390 - Linux machine: 39301 |
+|     Oscar Manuel G=F3mez Senovilla - mailto:omgs@escomposlinux.org     =
+|
+|               GPG Key at http://pgp.escomposlinux.org                |
+|----------------------------------------------------------------------|
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.1 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+
+iD8DBQE/ivPuQpr3kykd/aQRAnuJAJ9sOtKQzvkiEcWvrF83LhETG2IgSQCdHKOE
+cKYLhLajLknzmN9aRqgkt8s=3D
+=3DOuVW
+-----END PGP SIGNATURE-----
+
+
+From nobody Mon Oct 13 15:26:17 2003
+Received: (qmail 23097 invoked from network); 13 Oct 2003 19:25:37 -0000
+Received: from unknown (HELO blackice.aycuens.com) (80.224.105.77)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	13 Oct 2003 19:25:37 -0000
+Received: (from firewall@localhost)
+	by blackice.aycuens.com (8.9.3/AYCUENSøSMAP) id VAA04581
+	( Zombificad0}:| ) for <mozillaes@mozdev.org>; Mon, 13 Oct 2003 21:21:57 +0200
+X-Complaints-To: abuse@aycuens.com
+X-Url: http://www.aycuens.com
+Received: from devastator.aycuens.com(192.168.2.10) by blackice.aycuens.com
+	via smap (V2.1) id sma004578; Mon, 13 Oct 03 21:21:01 +0200
+Message-ID: <3F8AFB0C.7060106@aycuens.com>
+Date: Mon, 13 Oct 2003 21:20:44 +0200
+From: "Alvaro Munoz-Aycuens Mtnz." <alvarolists@aycuens.com>
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.5b) Gecko/20030913
+X-Accept-Language: en-us, en, es
+MIME-Version: 1.0
+To: =?ISO-8859-1?Q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+Subject: Re: [MozillaES] Documentos Oo era Varios
+References: <3F89BEF5.9010200@aycuens.com> <3F89E292.7060200@escomposlinux.org>
+In-Reply-To: <3F89E292.7060200@escomposlinux.org>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+List-Id: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?=  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Mon, 13 Oct 2003 19:25:45 -0000
+
+Ya veo, desde luego lo cómodo por lo que se (ya que yo tampoco nunca lo 
+he usado) es el docbook aunque la verdad es que si lo del Openoffice nos 
+funcionase seria bastante conveniente debido a su implantación y 
+facilidad de uso, si me lo envías le hecho un vistazo a ver si se me 
+ocurre alguna idea.
+
+Alvaro
+
+Oscar Manuel Gómez Senovilla wrote:
+> -----BEGIN PGP SIGNED MESSAGE-----
+> Hash: SHA1
+> 
+> Alvaro Munoz-Aycuens Mtnz. escribió: 
+> 
+>>Sobre la ayuda que ha pedido Oscar, podrías dar algo mas de información
+>>sobre los problemas por pasar el documento de Openoffice o exactamente
+>>que es lo que quieres hacer, tal vez lo cómodo es exportarlo a pdf, que
+>>oo lo soporta, es una idea.
+> 
+> 
+> 
+> Yo quisiera hacer una versión html, para que se pueda ver directamente
+> desde la web. Sé que puedo exportarlo, pero es una incógnita las
+> segundas versiones (es decir, las modificaciones) no conserva la
+> estructura de las veces anteriores, y simplemente buscaba una manera de,
+> partiendo de un documento maquetado, exportarlo a varios formatos.
+> 
+> Creo que el formato idóneo sería docbook xml, que puede exportarse
+> directamente a varios formatos, pero no lo domino como para hacer
+> documentación con páginas maquetadas. Salvo que alguien sepa hacerlo,
+> consultaré con la gente de Lucas, o incluso directamente con el propio
+> Ismael Olea, lo que ocurre es que todavía no he hecho las pruebas
+> necesarias, pero si quieres, Alvaro, te mando uno de los dos documentos
+> en OOo y tal vez puedas echar un vistazo o encontrar una solución.
+> 
+> 
+> Saludos.
+> 
+> - --
+> |----------------------------------------------------------------------|
+> | http://counter.li.org info: Linux user: 92390 - Linux machine: 39301 |
+> |     Oscar Manuel Gómez Senovilla - mailto:omgs@escomposlinux.org     |
+> |               GPG Key at http://pgp.escomposlinux.org                |
+> |----------------------------------------------------------------------|
+> -----BEGIN PGP SIGNATURE-----
+> Version: GnuPG v1.2.1 (GNU/Linux)
+> Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+> 
+> iD8DBQE/ieKSQpr3kykd/aQRAp32AJ4i4an9jWbBhliS9wDDBbMwnSpKrQCeIhKZ
+> 8PqrHW/l9Qk+ojAheUd0jGE=
+> =NaBt
+> -----END PGP SIGNATURE-----
+> 
+> _______________________________________________
+> Mozillaes mailing list
+> Mozillaes@mozdev.org
+> http://mozdev.org/mailman/listinfo/mozillaes
+> 
+> 
+
+
+From nobody Mon Oct 13 15:45:02 2003
+Received: (qmail 24596 invoked from network); 13 Oct 2003 19:44:28 -0000
+Received: from unknown (HELO cmr-213-141-53-10.telecable.es) (213.141.53.10)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	13 Oct 2003 19:44:28 -0000
+Received: from telecable.es (IDENT:alberto@localhost.localdomain [127.0.0.1])
+	by cmr-213-141-53-10.telecable.es (8.9.3/8.9.3) with ESMTP id
+	VAA00959 for <mozillaes@mozdev.org>; Mon, 13 Oct 2003 21:53:24 +0200
+Message-ID: <3F8B02AF.2070103@telecable.es>
+Date: Mon, 13 Oct 2003 21:53:19 +0200
+From: =?ISO-8859-1?Q?Alberto_Garc=EDa_Fern=E1ndez?= <algarcianet@telecable.es>
+User-Agent: Mozilla/5.0 (X11; U; Linux i586; es-ES; rv:1.2.1) Gecko/20021130
+X-Accept-Language: es-es, es, en-us, en
+MIME-Version: 1.0
+To: =?ISO-8859-1?Q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+Subject: Re: [MozillaES] Mensaje presentacion
+References: <3F8AD50B.7030300@aycuens.com>
+In-Reply-To: <3F8AD50B.7030300@aycuens.com>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+List-Id: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?=  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Mon, 13 Oct 2003 19:44:29 -0000
+
+Hola,
+
+Hice algún reotoque añadidiendo lo que puso Óscar también. Lo cambién un 
+poco todo.
+
+En mi opinión, la tercera persona, resulta mucho más seria y correcta.
+
+-------Retoque a la posible presentación
+
+El proyecto MozillaES nace con la idea de crear una comunidad de Mozilla 
+en español, que trate de unir y promover proyectos relacionados con 
+Mozilla en nuestra lengua, además de apoyar el uso de las tecnologías 
+desarrolladas por mozilla.org y los productos basados en ellas.
+
+Tenemos los cimientos de lo que va a ser el proyecto, por lo que es el
+momento para que todos los que quieran colaborar se subscriban a la
+lista de correo para empezar a discutir sobre la futura organización.
+
+Uno de los primeros pasos a dar, es la creación de una lista de correo 
+de ayuda al usuario final para resolver cualquier tipo de duda o 
+problema relacionada con Mozilla. Esta lista todavía no ha sido creada, 
+y esperamos sugerencias sobre el nombre de la misma, que inicialmente se 
+llamará mozillaes-ayuda@mozdev.org.
+
+Invitamos a todos aquellos que tengan alguna inquietud sobre Mozilla, o 
+alguna actividad relacionada con el uso y/o promoción de Mozilla o 
+cualquier producto relacionado, a suscribirse a la lista de correo del 
+proyecto y a exponer sus ideas.
+
+Se puede encontrar más información sobre el proyecto en:
+
+http://mozillaes.mozdev.org/
+
+Un Saludo
+
+El equipo de MozillaES
+
+-- 
+Alberto García Fernández
+algarcianet@telecable.es
+Usuario Registrado Linux #315313
+
+
+
+From nobody Mon Oct 13 15:46:13 2003
+Received: (qmail 24704 invoked from network); 13 Oct 2003 19:45:39 -0000
+Received: from unknown (HELO blackice.aycuens.com) (80.224.105.77)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	13 Oct 2003 19:45:39 -0000
+Received: (from firewall@localhost)
+	by blackice.aycuens.com (8.9.3/AYCUENSøSMAP) id VAA04716
+	( Zombificad0}:| ) for <mozillaes@mozdev.org>; Mon, 13 Oct 2003 21:41:58 +0200
+X-Complaints-To: abuse@aycuens.com
+X-Url: http://www.aycuens.com
+Received: from devastator.aycuens.com(192.168.2.10) by blackice.aycuens.com
+	via smap (V2.1) id sma004710; Mon, 13 Oct 03 21:41:28 +0200
+Message-ID: <3F8AFFD6.8080007@aycuens.com>
+Date: Mon, 13 Oct 2003 21:41:10 +0200
+From: "Alvaro Munoz-Aycuens Mtnz." <alvarolists@aycuens.com>
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.5b) Gecko/20030913
+X-Accept-Language: en-us, en, es
+MIME-Version: 1.0
+To: =?ISO-8859-1?Q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+Subject: Re: [MozillaES] Mensaje presentacion
+References: <3F8AD50B.7030300@aycuens.com> <3F8AF3EE.3050309@escomposlinux.org>
+In-Reply-To: <3F8AF3EE.3050309@escomposlinux.org>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+List-Id: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?=  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Mon, 13 Oct 2003 19:45:40 -0000
+
+A ver que organizo los textos:
+
+---- Mensaje Presentación
+
+El proyecto MozillaES nace con la idea de crear una comunidad de Mozilla
+en Español, que trate de unir y promover proyectos relacionados con
+Mozilla en Español además de apoyar el uso de Mozilla y sus productos
+derivados.
+
+Tenemos los cimientos de lo que va a ser el proyecto, por lo que es el
+momento para que todos los que queráis colaborar os subscribáis a la
+lista para empezar a discutir sobre la futura organización y proyectos 
+así pues, si tienes alguna inquietud sobre mozilla, alguna actividad 
+relacionada con el uso y/o promoción de mozilla o cualquier producto 
+relacionado, subscríbete a la lista del proyecto y expón tus ideas.
+
+También se ha creado una lista de ayuda al usuario final para resolver
+cualquier tipo de duda o problema relacionada con mozilla.
+
+El equipo de MozillaES
+
+---- /Mensaje Presentación
+
+He organizado ya lo de la lista, si todo va bien la tendremos 
+funcionando en unas horas lo añadiré también a la pagina, así que tal 
+vez podemos eliminar la ultima frase, a ver que mas cosas se os ocurren.
+
+
+Alvaro
+
+
+
+
+Oscar Manuel Gómez Senovilla wrote:
+> -----BEGIN PGP SIGNED MESSAGE-----
+> Hash: SHA1
+> 
+> Alvaro Munoz-Aycuens Mtnz. escribió:
+> 
+>>Hola, estaba pensando en como hacer el mensaje de presentación del
+>>proyecto para además aprovecharlo para meter lo de organizar donde queda
+>>cada proyecto y por otro lado después organizar mozillaes en si, sobre
+>>todo no se como empezarlo para que no cause revuelo con la ultima
+>>discusión de nave (ver Distribución de Mozilla), a ver si conseguimos
+>>mover ciertos temas y discusiones de la lista de nave a mozillaes.
+>>
+>>---- Posible presentación
+>>
+>>El proyecto MozillaES nace con la idea de crear una comunidad de Mozilla
+>>en Español, que trate de unir y promover proyectos relacionados con
+>>Mozilla en Español además de apoyar el uso de Mozilla y sus productos
+>>derivados.
+> 
+> 
+> 
+> Hasta aquí, perfecto.
+> 
+> 
+> 
+>>Tenemos los cimientos de lo que va a ser el proyecto, pero todavía no
+>>hemos definido la organización interna completamente, es el momento para
+>>que todos los que queráis colaborar os subscribáis a la lista para
+>>empezar a discutir sobre la futura organización.
+> 
+> 
+> 
+> Bueno, mi opinión es que que se da una innecesaria sensación de
+> inseguridad. Creo que se podría quedar algo así:
+> 
+> "Tenemos los cimientos de lo que va a ser el proyecto, por lo que es el
+> momento para que todos los que queráis colaborar os subscribáis a la
+> lista para empezar a discutir sobre la futura organización."
+> 
+
+Cierto
+
+> Y añadir algo como:
+> 
+> "Si tienes alguna inquietud sobre mozilla, alguna actividad relacionada
+> con el uso y/o promoción de mozilla o cualquier producto relacionado,
+> suscríbete a la lista del proyecto y expón tus ideas.
+> 
+> También se va a crear una lista de ayuda al usuario final para resolver
+> cualquier tipo de duda o problema relacionada con mozilla. Esta lista
+> todavía no ha sido creada, y esperamos sugerencias sobre el nombre de la
+> misma, que inicialmente se llamará mozillaes-ayuda@mozdev.org".
+> 
+> 
+> 
+>>Puedes encontrar mas información sobre el proyecto en:
+>>
+>>http://mozillaes.mozdev.org
+>>
+>>Un Saludo
+>>
+>>El equipo de MozillaES
+>>
+>>---------------------------------
+>>
+>>Tal vez después de esto se puede plantear la necesidad de dejar de usar
+>>la lista de nave para estos temas y también los objetivos del resto de
+>>proyectos, ideas, sugerencias, cambios?
+>>
+>>Un Saludo
+>>
+>>Alvaro
+>>
+>>P.D- Cuando presentemos el proyecto les pido a los de mozdev la lista de
+>>ayuda.
+> 
+> 
+> 
+> Vale, pero no por ello hay que dejar de mencionarlo en el mensaje, ya
+> que no se informa de ello en ningún sitio.
+> 
+> Saludos.
+> 
+> - --
+> |----------------------------------------------------------------------|
+> | http://counter.li.org info: Linux user: 92390 - Linux machine: 39301 |
+> |     Oscar Manuel Gómez Senovilla - mailto:omgs@escomposlinux.org     |
+> |               GPG Key at http://pgp.escomposlinux.org                |
+> |----------------------------------------------------------------------|
+> -----BEGIN PGP SIGNATURE-----
+> Version: GnuPG v1.2.1 (GNU/Linux)
+> Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+> 
+> iD8DBQE/ivPuQpr3kykd/aQRAnuJAJ9sOtKQzvkiEcWvrF83LhETG2IgSQCdHKOE
+> cKYLhLajLknzmN9aRqgkt8s=
+> =OuVW
+> -----END PGP SIGNATURE-----
+> 
+> _______________________________________________
+> Mozillaes mailing list
+> Mozillaes@mozdev.org
+> http://mozdev.org/mailman/listinfo/mozillaes
+> 
+> 
+
+
+From nobody Mon Oct 13 15:58:29 2003
+Received: (qmail 25968 invoked from network); 13 Oct 2003 19:57:50 -0000
+Received: from unknown (HELO blackice.aycuens.com) (80.224.105.77)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	13 Oct 2003 19:57:50 -0000
+Received: (from firewall@localhost)
+	by blackice.aycuens.com (8.9.3/AYCUENSøSMAP) id VAA04808
+	( Zombificad0}:| ) for <mozillaes@mozdev.org>; Mon, 13 Oct 2003 21:53:58 +0200
+X-Complaints-To: abuse@aycuens.com
+X-Url: http://www.aycuens.com
+Received: from devastator.aycuens.com(192.168.2.10) by blackice.aycuens.com
+	via smap (V2.1) id sma004802; Mon, 13 Oct 03 21:53:29 +0200
+Message-ID: <3F8B02A7.1020702@aycuens.com>
+Date: Mon, 13 Oct 2003 21:53:11 +0200
+From: "Alvaro Munoz-Aycuens Mtnz." <alvarolists@aycuens.com>
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.5b) Gecko/20030913
+X-Accept-Language: en-us, en, es
+MIME-Version: 1.0
+To: =?ISO-8859-1?Q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+Subject: Re: [MozillaES] Mensaje presentacion
+References: <3F8AD50B.7030300@aycuens.com> <3F8B02AF.2070103@telecable.es>
+In-Reply-To: <3F8B02AF.2070103@telecable.es>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+List-Id: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?=  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Mon, 13 Oct 2003 19:57:57 -0000
+
+jeje nos hemos cruzado :) cachis ya son casi las 10 luego miro tus cambios.
+
+Alvaro
+
+Alberto García Fernández wrote:
+> Hola,
+> 
+> Hice algún reotoque añadidiendo lo que puso Óscar también. Lo cambién un 
+> poco todo.
+> 
+> En mi opinión, la tercera persona, resulta mucho más seria y correcta.
+> 
+> -------Retoque a la posible presentación
+> 
+> El proyecto MozillaES nace con la idea de crear una comunidad de Mozilla 
+> en español, que trate de unir y promover proyectos relacionados con 
+> Mozilla en nuestra lengua, además de apoyar el uso de las tecnologías 
+> desarrolladas por mozilla.org y los productos basados en ellas.
+> 
+> Tenemos los cimientos de lo que va a ser el proyecto, por lo que es el
+> momento para que todos los que quieran colaborar se subscriban a la
+> lista de correo para empezar a discutir sobre la futura organización.
+> 
+> Uno de los primeros pasos a dar, es la creación de una lista de correo 
+> de ayuda al usuario final para resolver cualquier tipo de duda o 
+> problema relacionada con Mozilla. Esta lista todavía no ha sido creada, 
+> y esperamos sugerencias sobre el nombre de la misma, que inicialmente se 
+> llamará mozillaes-ayuda@mozdev.org.
+> 
+> Invitamos a todos aquellos que tengan alguna inquietud sobre Mozilla, o 
+> alguna actividad relacionada con el uso y/o promoción de Mozilla o 
+> cualquier producto relacionado, a suscribirse a la lista de correo del 
+> proyecto y a exponer sus ideas.
+> 
+> Se puede encontrar más información sobre el proyecto en:
+> 
+> http://mozillaes.mozdev.org/
+> 
+> Un Saludo
+> 
+> El equipo de MozillaES
+> 
+
+
+From nobody Mon Oct 13 16:01:43 2003
+Received: (qmail 26190 invoked from network); 13 Oct 2003 20:01:09 -0000
+Received: from unknown (HELO oscar.omgs.es) (217.125.116.214)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	13 Oct 2003 20:01:09 -0000
+Received: from 214.red-217-125-116.pooles.rima-tde.net ([217.125.116.214]
+	helo=escomposlinux.org)
+	by oscar.omgs.es with esmtp (Exim 3.35 #1 (Debian))
+	id 1A98oL-0001Qg-00
+	for <mozillaes@mozdev.org>; Mon, 13 Oct 2003 21:56:57 +0200
+Message-ID: <3F8B0389.1090904@escomposlinux.org>
+Date: Mon, 13 Oct 2003 21:56:57 +0200
+From: =?ISO-8859-1?Q?Oscar_Manuel_G=F3mez_Senovilla?= <omgs@escomposlinux.org>
+Organization: Estoy harto de spammers
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; es-ES; rv:1.4) Gecko/20030625
+X-Accept-Language: es, es-es, en, es-mx
+MIME-Version: 1.0
+To: =?ISO-8859-1?Q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+Subject: Re: [MozillaES] Mensaje presentacion
+References: <3F8AD50B.7030300@aycuens.com> <3F8AF3EE.3050309@escomposlinux.org>
+	<3F8AFFD6.8080007@aycuens.com>
+In-Reply-To: <3F8AFFD6.8080007@aycuens.com>
+X-Enigmail-Version: 0.76.0.0
+X-Enigmail-Supports: pgp-inline, pgp-mime
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+List-Id: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?=  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Mon, 13 Oct 2003 20:01:10 -0000
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Alvaro Munoz-Aycuens Mtnz. escribi=F3:
+> A ver que organizo los textos:
+
+
+Bueno, me gusta m=E1s el retoque de Alberto. En cualquier caso, si sale
+uno u otro, pues tampco es mayor problema por mi parte.
+
+
+Saludos.
+
+- --
+|----------------------------------------------------------------------|
+| http://counter.li.org info: Linux user: 92390 - Linux machine: 39301 |
+|     Oscar Manuel G=F3mez Senovilla - mailto:omgs@escomposlinux.org     =
+|
+|               GPG Key at http://pgp.escomposlinux.org                |
+|----------------------------------------------------------------------|
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.1 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+
+iD8DBQE/iwOIQpr3kykd/aQRAvbgAJ0bUf8S6OPraLpltqSNqteO9bSedACfYJ9K
+E/ENW1G9nQaOSA2EMsLy2bs=3D
+=3DXND/
+-----END PGP SIGNATURE-----
+
+
+From nobody Mon Oct 13 18:18:42 2003
+Received: (qmail 38019 invoked from network); 13 Oct 2003 22:18:10 -0000
+Received: from unknown (HELO blackice.aycuens.com) (80.224.105.77)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	13 Oct 2003 22:18:10 -0000
+Received: (from firewall@localhost)
+	by blackice.aycuens.com (8.9.3/AYCUENSøSMAP) id AAA06094
+	( Zombificad0}:| ) for <mozillaes@mozdev.org>; Tue, 14 Oct 2003 00:13:59 +0200
+X-Complaints-To: abuse@aycuens.com
+X-Url: http://www.aycuens.com
+Received: from devastator.aycuens.com(192.168.2.10) by blackice.aycuens.com
+	via smap (V2.1) id sma006091; Tue, 14 Oct 03 00:13:28 +0200
+Message-ID: <3F8B2396.8030108@aycuens.com>
+Date: Tue, 14 Oct 2003 00:13:42 +0200
+From: "Alvaro Munoz-Aycuens Mtnz." <alvarolists@aycuens.com>
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.5b) Gecko/20030913
+X-Accept-Language: en-us, en, es
+MIME-Version: 1.0
+To: =?ISO-8859-1?Q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+Subject: Re: [MozillaES] Mensaje presentacion
+References: <3F8AD50B.7030300@aycuens.com>
+	<3F8AF3EE.3050309@escomposlinux.org>	<3F8AFFD6.8080007@aycuens.com>
+	<3F8B0389.1090904@escomposlinux.org>
+In-Reply-To: <3F8B0389.1090904@escomposlinux.org>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+List-Id: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?=  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Mon, 13 Oct 2003 22:18:11 -0000
+
+A mi también :), estoy negociando con la gente de mozdev lo de la 
+segunda lista de correo, una vez que lo tenga consolidado, cambio lo 
+referente a la lista de ayuda o tal vez mejor quitar? y envió el correo 
+a nave y algún sitio mas que se nos ocurra, con lo que estaríamos en marcha.
+
+Oscar Manuel Gómez Senovilla wrote:
+> -----BEGIN PGP SIGNED MESSAGE-----
+> Hash: SHA1
+> 
+> Alvaro Munoz-Aycuens Mtnz. escribió:
+> 
+>>A ver que organizo los textos:
+> 
+> 
+> 
+> Bueno, me gusta más el retoque de Alberto. En cualquier caso, si sale
+> uno u otro, pues tampco es mayor problema por mi parte.
+> 
+> 
+> Saludos.
+> 
+> - --
+> |----------------------------------------------------------------------|
+> | http://counter.li.org info: Linux user: 92390 - Linux machine: 39301 |
+> |     Oscar Manuel Gómez Senovilla - mailto:omgs@escomposlinux.org     |
+> |               GPG Key at http://pgp.escomposlinux.org                |
+> |----------------------------------------------------------------------|
+> -----BEGIN PGP SIGNATURE-----
+> Version: GnuPG v1.2.1 (GNU/Linux)
+> Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+> 
+> iD8DBQE/iwOIQpr3kykd/aQRAvbgAJ0bUf8S6OPraLpltqSNqteO9bSedACfYJ9K
+> E/ENW1G9nQaOSA2EMsLy2bs=
+> =XND/
+> -----END PGP SIGNATURE-----
+> 
+> _______________________________________________
+> Mozillaes mailing list
+> Mozillaes@mozdev.org
+> http://mozdev.org/mailman/listinfo/mozillaes
+> 
+> 
+
+
+From nobody Mon Oct 13 22:03:37 2003
+Received: (qmail 55918 invoked from network); 14 Oct 2003 02:03:05 -0000
+Received: from unknown (HELO martina.dattaservers.com) (207.44.236.87)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	14 Oct 2003 02:03:05 -0000
+Received: from dup-200-65-225-110.prodigy.net.mx ([200.65.225.110]
+	helo=ismx.net) by martina.dattaservers.com with asmtp (Exim 4.24)
+	id 1A9ESb-00054a-2K
+	for mozillaes@mozdev.org; Mon, 13 Oct 2003 22:58:53 -0300
+Message-ID: <3F8A22E0.9040904@ismx.net>
+Date: Sun, 12 Oct 2003 20:58:24 -0700
+From: =?ISO-8859-1?Q?Alejandro_Serrano_Gonz=E1lez?= <ale@ismx.net>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES;
+	rv:1.5) Gecko/20030925
+X-Accept-Language: es-mx, es-es, en, en-us
+MIME-Version: 1.0
+To: =?ISO-8859-1?Q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+Subject: Re: [MozillaES] Mensaje presentacion
+References: <3F8AD50B.7030300@aycuens.com>	<3F8AF3EE.3050309@escomposlinux.org>	<3F8AFFD6.8080007@aycuens.com>	<3F8B0389.1090904@escomposlinux.org>
+	<3F8B2396.8030108@aycuens.com>
+In-Reply-To: <3F8B2396.8030108@aycuens.com>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse,
+	please include it with any abuse report
+X-AntiAbuse: Primary Hostname - martina.dattaservers.com
+X-AntiAbuse: Original Domain - mozdev.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - ismx.net
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+List-Id: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?=  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Tue, 14 Oct 2003 02:03:06 -0000
+
+También concuerdo con la presentación :-)
+
+Saludos...
+Alejandro Serrano G.
+
+
+From nobody Fri Oct 17 18:11:57 2003
+Received: (qmail 18583 invoked from network); 17 Oct 2003 20:26:56 -0000
+Received: from unknown (HELO rfallback.ya.com) (62.151.4.18)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	17 Oct 2003 20:26:56 -0000
+Received: from [192.168.1.154] (helo=smtp.ya.com)
+	by rfallback.ya.com with esmtp id 1AAb7J-0003ST-00
+	for mozillaes@mozdev.org; Fri, 17 Oct 2003 22:22:33 +0200
+Received: from [80.38.148.4] (helo=ya.com)
+	by smtp.ya.com with esmtp id 1AAb2Q-0002Ti-00
+	for mozillaes@mozdev.org; Fri, 17 Oct 2003 22:17:32 +0200
+Message-ID: <3F904E52.9020808@ya.com>
+Date: Fri, 17 Oct 2003 22:17:22 +0200
+From: =?ISO-8859-1?Q?Bernardo_Arlandis_Ma=F1=F3?= <berarma@ya.com>
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; es-ES; rv:1.5) Gecko/20031007
+X-Accept-Language: es-es, es, ca, en-us, en
+MIME-Version: 1.0
+To: mozillaes@mozdev.org
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Mailman-Approved-At: Fri, 17 Oct 2003 18:11:55 -0400
+Subject: [MozillaES] MozES
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+List-Id: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?=  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Fri, 17 Oct 2003 20:26:56 -0000
+
+Hola.
+
+Estoy un poco sorprendido después de echar un vistazo al archivo de la 
+lista. En varias ocasiones hablais de MozES como un proyecto vivo y que 
+está en "evolución". Bueno, o yo me he perdido algo o sois vosotros que 
+no os habeis enterado. Robert hace mucho tiempo que está desconectado 
+del proyecto, si es que en algún momento lo estuvo, y me dijo que estaba 
+dispuesto a cederlo porque ya no estaba interesado en él. Yo NO soy el 
+propietario del proyecto, ni siquiera tengo intención de quedarmelo. 
+Como ya dije, mi intención era terminar la traducción de la página de 
+inicio. Podríais pedir el proyecto a Robert, aunque solo sea para que lo 
+den de baja, y coger lo que hay allí (eso lo podeis hacer ya, el trabajo 
+es nuestro y no creo que haya que pedir explicaciones). Es solo una idea.
+
+En algunos momentos me da la sensación que no se ha entendido que mi 
+intención no era llevar ese proyecto, aún así parece que lo mirais como 
+una competencia directa. En todo caso mía no, por lo que ya he 
+explicado, a ver de quién. Intenté, aunque no lo hayais visto así, 
+relanzarlo con vuestra ayuda, ahora parece que quereis hacer un todos 
+contra mí, cuando *yo no soy MozES*, y aparte de mí no hay nadie más a 
+no ser que no me haya enterado de algo.
+
+Espero que os haya quedado claro donde está MozES y adonde va, me daba 
+la sensación que os estabais montando una peli.
+
+Yo voy a seguir trabajando en el único proyecto que considero realmente 
+como mío que es mi modesta web. Si quereis coger algo de ahí no teneis 
+que pedir permiso y si os puedo ayudar en algo iré mirando la lista de 
+tanto en tanto, si no ya sabeis donde estoy.
+
+Saludos.
+
+-- 
+Bernardo Arlandis Mañó
+http://personales.ya.com/berarma/
+
+
+
+
+From nobody Fri Oct 17 18:33:41 2003
+Received: (qmail 26728 invoked from network); 17 Oct 2003 22:33:09 -0000
+Received: from unknown (HELO oscar.omgs.es) (217.125.116.214)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	17 Oct 2003 22:33:09 -0000
+Received: from 214.red-217-125-116.pooles.rima-tde.net ([217.125.116.214]
+	helo=escomposlinux.org)
+	by oscar.omgs.es with esmtp (Exim 3.35 #1 (Debian))
+	id 1AAd5V-0000fb-00
+	for <mozillaes@mozdev.org>; Sat, 18 Oct 2003 00:28:49 +0200
+Message-ID: <3F906D21.5060901@escomposlinux.org>
+Date: Sat, 18 Oct 2003 00:28:49 +0200
+From: =?ISO-8859-1?Q?Oscar_Manuel_G=F3mez_Senovilla?= <omgs@escomposlinux.org>
+Organization: Estoy harto de spammers
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; es-ES; rv:1.4) Gecko/20030625
+X-Accept-Language: es, es-es, en, es-mx
+MIME-Version: 1.0
+To: =?ISO-8859-1?Q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+Subject: Re: [MozillaES] MozES
+References: <3F904E52.9020808@ya.com>
+In-Reply-To: <3F904E52.9020808@ya.com>
+X-Enigmail-Version: 0.76.0.0
+X-Enigmail-Supports: pgp-inline, pgp-mime
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+List-Id: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?=  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Fri, 17 Oct 2003 22:33:09 -0000
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Bernardo Arlandis Ma=F1=F3 escribi=F3:
+>
+> Yo voy a seguir trabajando en el =FAnico proyecto que considero realmen=
+te
+> como m=EDo que es mi modesta web. Si quereis coger algo de ah=ED no ten=
+eis
+> que pedir permiso y si os puedo ayudar en algo ir=E9 mirando la lista d=
+e
+> tanto en tanto, si no ya sabeis donde estoy.
+
+
+He quitado texto s=F3lo para no cansar.
+
+El objetivo de MozillaES es integrar los recursos, y en parte porque
+mozes no tiene lista, ni control administrativo (aunque ya s=E9 que RM
+dijo que estaba moviendo los hilos y dem=E1s), la cuesti=F3n es que hac=ED=
+a
+falta albergar un espacio para la labor que TODOS queremos realizar. Y
+en MozillaES, existe control total de todos los aspectos del proyecto,
+incluyendo un nombre (todav=EDa) m=E1s apropiado (en mi opini=F3n) para l=
+o que
+se pretende realizar.
+
+Creo que todos estar=E1n de acuerdo en que si quieres integrar en
+mozillaes la labor que has venido haciendo en mozes, tienes las puertas
+abiertas, e incluso creemos que es mejor hacerlo de esta manera y no con
+dos proyectos distintos pero con objetivos no del todo coincidentes,
+pero que su uni=F3n ser=EDa definitiva para homogeneizar todos los aspect=
+os
+posibles. Para ello, con pedirle cuenta a Alvaro en el CVS, ya podr=EDas
+ponerlo, y ver=EDamos c=F3mo ponemos los enlaces desde las p=E1ginas de m=
+ozillaes.
+
+
+Saludos.
+
+- --
+|----------------------------------------------------------------------|
+| http://counter.li.org info: Linux user: 92390 - Linux machine: 39301 |
+|     Oscar Manuel G=F3mez Senovilla - mailto:omgs@escomposlinux.org     =
+|
+|               GPG Key at http://pgp.escomposlinux.org                |
+|----------------------------------------------------------------------|
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.3 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+
+iD8DBQE/kG0gQpr3kykd/aQRAk+lAJ94uifoZZx8EVl1iezISCwjuZBwWACfY8rG
+yzpwGnSAkmZo7llDdjHOlFI=3D
+=3DYg+8
+-----END PGP SIGNATURE-----
+
+
+From nobody Fri Oct 17 18:45:02 2003
+Received: (qmail 27439 invoked from network); 17 Oct 2003 22:44:29 -0000
+Received: from unknown (HELO oscar.omgs.es) (217.125.116.214)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	17 Oct 2003 22:44:29 -0000
+Received: from 214.red-217-125-116.pooles.rima-tde.net ([217.125.116.214]
+	helo=escomposlinux.org)
+	by oscar.omgs.es with esmtp (Exim 3.35 #1 (Debian))
+	id 1AAdGS-0000lG-00
+	for <mozillaes@mozdev.org>; Sat, 18 Oct 2003 00:40:08 +0200
+Message-ID: <3F906FC8.5080007@escomposlinux.org>
+Date: Sat, 18 Oct 2003 00:40:08 +0200
+From: =?ISO-8859-1?Q?Oscar_Manuel_G=F3mez_Senovilla?= <omgs@escomposlinux.org>
+Organization: Estoy harto de spammers
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; es-ES; rv:1.4) Gecko/20030625
+X-Accept-Language: es, es-es, en, es-mx
+MIME-Version: 1.0
+To: Lista de correo mozillaES <mozillaes@mozdev.org>
+X-Enigmail-Version: 0.76.0.0
+X-Enigmail-Supports: pgp-inline, pgp-mime
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+Subject: [MozillaES] Error en la =?iso-8859-1?q?p=E1gina_sobre_la_lista?=
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+List-Id: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?=  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Fri, 17 Oct 2003 22:44:29 -0000
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+En http://mozillaes.mozdev.org/list.html, hay enlaces a la lista de
+mozilllaes-ayuda que, debido a copiar y pegar, apuntan a mozillaes y no
+mozillaes-ayuda.
+
+Puedo corregirlo yo o que lo corrija Alvaro, pero hay que corregirlo.
+
+Saludos.
+
+- --
+|----------------------------------------------------------------------|
+| http://counter.li.org info: Linux user: 92390 - Linux machine: 39301 |
+|     Oscar Manuel G=F3mez Senovilla - mailto:omgs@escomposlinux.org     =
+|
+|               GPG Key at http://pgp.escomposlinux.org                |
+|----------------------------------------------------------------------|
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.3 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+
+iD8DBQE/kG/IQpr3kykd/aQRAmfxAJ9N4zZb8ZMrNFg3xQdsq6QvSloF6QCdEQID
+9MUHPcMlUCey9W+/s+8rvvI=3D
+=3DRGhf
+-----END PGP SIGNATURE-----
+
+
+From nobody Fri Oct 17 19:00:48 2003
+Received: (qmail 28580 invoked from network); 17 Oct 2003 23:00:14 -0000
+Received: from unknown (HELO cmr-213-141-53-10.telecable.es) (213.141.53.10)
+	by 167.206.76.23 with SMTP; 17 Oct 2003 23:00:14 -0000
+Received: from telecable.es (IDENT:alberto@localhost.localdomain [127.0.0.1])
+	by cmr-213-141-53-10.telecable.es (8.9.3/8.9.3) with ESMTP id
+	BAA01523 for <mozillaes@mozdev.org>; Sat, 18 Oct 2003 01:07:11 +0200
+Message-ID: <3F907613.5010408@telecable.es>
+Date: Sat, 18 Oct 2003 01:06:59 +0200
+From: =?ISO-8859-1?Q?Alberto_Garc=EDa_Fern=E1ndez?= <algarcianet@telecable.es>
+User-Agent: Mozilla/5.0 (X11; U; Linux i586; es-ES; rv:1.2.1) Gecko/20021130
+X-Accept-Language: es-es, es, en-us, en
+MIME-Version: 1.0
+To: =?ISO-8859-1?Q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+Subject: Re: [MozillaES] MozES
+References: <3F904E52.9020808@ya.com>
+In-Reply-To: <3F904E52.9020808@ya.com>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+List-Id: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?=  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Fri, 17 Oct 2003 23:00:16 -0000
+
+
+
+Bernardo Arlandis Mañó escribió:
+> Hola.
+> 
+> Estoy un poco sorprendido después de echar un vistazo al archivo de la 
+> lista. En varias ocasiones hablais de MozES como un proyecto vivo y que 
+> está en "evolución". Bueno, o yo me he perdido algo o sois vosotros que 
+> no os habeis enterado. Robert hace mucho tiempo que está desconectado 
+> del proyecto, si es que en algún momento lo estuvo, y me dijo que estaba 
+> dispuesto a cederlo porque ya no estaba interesado en él. Yo NO soy el 
+> propietario del proyecto, ni siquiera tengo intención de quedarmelo. 
+> Como ya dije, mi intención era terminar la traducción de la página de 
+> inicio. Podríais pedir el proyecto a Robert, aunque solo sea para que lo 
+> den de baja, y coger lo que hay allí (eso lo podeis hacer ya, el trabajo 
+> es nuestro y no creo que haya que pedir explicaciones). Es solo una idea.
+> 
+> En algunos momentos me da la sensación que no se ha entendido que mi 
+> intención no era llevar ese proyecto, aún así parece que lo mirais como 
+> una competencia directa. En todo caso mía no, por lo que ya he 
+> explicado, a ver de quién. Intenté, aunque no lo hayais visto así, 
+> relanzarlo con vuestra ayuda, ahora parece que quereis hacer un todos 
+> contra mí, cuando *yo no soy MozES*, y aparte de mí no hay nadie más a 
+> no ser que no me haya enterado de algo.
+> 
+
+Este proeyecto no va contra MozES. Los objetivos de MozES son traducción 
+de la página de inicio de Mozilla y documentación relevante de usuario 
+final. Este proyecto se crea para dar cabida a todas las cosas, que no 
+sean la página de inicio, documentación relevante de usuario final de 
+mozilla.org o traducción del software producido por mozilla.org. Así que 
+en ningún caso es competencia de MozES, ni va contra ese proyecto. Sería 
+como decir que es competencia del proyecto de traducción al castellano 
+de España de Mozilla. (Este es un proyecto abierto a todos los países de 
+habla hispana, no solo de España, por lo tanto me parece más correcto 
+hablar de Mozilla es-AR, Mozilla es-CO, Mozilla es-ES y Mozilla es-HN, 
+puesto que gente de otros países no tiene porqué conocer el "apodo" de 
+los proyectos contribuidores del MLP hispanos, y creo que es más formal 
+y oportuno, y más claro, dirigirse a ellos con nombres técnicos).
+
+Que no se entienda mal, en un momento dado, el objetivo de este 
+proyecto, porque no es sustituir o hace competencia a ningún otro, sino 
+dar recursos que hasta ahora no habían. Aquí pueden tener cabida muchas 
+cosas, desde tuturilaes y ayudas, hasta noticias, anuncios o una especie 
+de "notas de prensa" para todos los demás proyectos hispanos 
+relacionados con Mozilla o proyectos destinados a la promoción y 
+difusión de Mozilla y la Fundación Mozilla en nuestro idioma. Se crea 
+por tanto también, para liberar un poco la carga de responsabilidad del 
+proyecto de traducción de Mozilla para el castellano de España, al que 
+históricamente se ha dirigido la gente como "centro" de la comunidad 
+española (o de otros países hispanos) en todos los aspectos del proyecto 
+Mozilla".
+
+También como dice Óscar se buscó un nombre que reflejase por entero la 
+palabra "mozilla". Y al final resultó bastante rápido crear un nuevo 
+proyecto.
+
+> Espero que os haya quedado claro donde está MozES y adonde va, me daba 
+> la sensación que os estabais montando una peli.
+
+Se dejó abierta la posibilidad de que los miembros de MozES integrasen 
+dicho proyecto en este si quisiesen, o no. Según su elección. Como 
+también se dijo, que todo el mundo podría, en caso de no haber una 
+fusión, colaborar alternativamente en ambos proyectos, o en un tercero 
+si es menester.
+
+> 
+> Yo voy a seguir trabajando en el único proyecto que considero realmente 
+> como mío que es mi modesta web. Si quereis coger algo de ahí no teneis 
+> que pedir permiso y si os puedo ayudar en algo iré mirando la lista de 
+> tanto en tanto, si no ya sabeis donde estoy.
+> 
+
+Gracias por tu colaboración, y sería bueno que pusiese la url para que 
+la gente la viese. Sé que la tienes en la firma, pero al responder, ya 
+no sale la firma, y si la pones en el mensaje facilitas que la gente 
+haga clic más fácilmente y se pueda beneficiar de tus aportaciones.
+
+	http://personales.ya.com/berarma/
+
+La web --^
+
+	http://http://personales.ya.com/berarma/mozilla/
+
+La sección de Mozilla dentro de la web anterior --^
+
+> Saludos.
+> 
+
+Saludos, y bienvenido aquí,
+
+-- 
+Alberto García Fernández
+algarcianet@telecable.es
+Usuario Registrado Linux #315313
+
+
+
+From nobody Sat Oct 18 05:45:54 2003
+Received: (qmail 62843 invoked from network); 18 Oct 2003 09:45:21 -0000
+Received: from unknown (HELO oscar.omgs.es) (217.125.116.214)
+	by mozdev.org.76.206.167.in-addr.arpa with SMTP;
+	18 Oct 2003 09:45:21 -0000
+Received: from 214.red-217-125-116.pooles.rima-tde.net ([217.125.116.214]
+	helo=escomposlinux.org)
+	by oscar.omgs.es with esmtp (Exim 3.35 #1 (Debian))
+	id 1AAna0-0006GI-00
+	for <mozillaes@mozdev.org>; Sat, 18 Oct 2003 11:41:00 +0200
+Message-ID: <3F910AAC.6040405@escomposlinux.org>
+Date: Sat, 18 Oct 2003 11:41:00 +0200
+From: =?ISO-8859-1?Q?Oscar_Manuel_G=F3mez_Senovilla?= <omgs@escomposlinux.org>
+Organization: Estoy harto de spammers
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; es-ES; rv:1.4) Gecko/20030625
+X-Accept-Language: es, es-es, en, es-mx
+MIME-Version: 1.0
+To: =?ISO-8859-1?Q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+Subject: Re: [MozillaES] Error en la =?ISO-8859-1?Q?p=E1gina_sobre_la?=
+	=?ISO-8859-1?Q?_lista?=
+References: <3F906FC8.5080007@escomposlinux.org>
+In-Reply-To: <3F906FC8.5080007@escomposlinux.org>
+X-Enigmail-Version: 0.76.0.0
+X-Enigmail-Supports: pgp-inline, pgp-mime
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-BeenThere: mozillaes@mozdev.org
+X-Mailman-Version: 2.1.2
+Precedence: list
+Reply-To: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?= <mozillaes@mozdev.org>
+List-Id: =?iso-8859-1?q?Mozilla_en_Espa=F1ol?=  <mozillaes.mozdev.org>
+List-Unsubscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=unsubscribe>
+List-Archive: <http://mozdev.org/pipermail/mozillaes>
+List-Post: <mailto:mozillaes@mozdev.org>
+List-Help: <mailto:mozillaes-request@mozdev.org?subject=help>
+List-Subscribe: <http://mozdev.org/mailman/listinfo/mozillaes>,
+	<mailto:mozillaes-request@mozdev.org?subject=subscribe>
+X-List-Received-Date: Sat, 18 Oct 2003 09:45:22 -0000
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Oscar Manuel G=F3mez Senovilla escribi=F3:
+> En http://mozillaes.mozdev.org/list.html, hay enlaces a la lista de
+> mozilllaes-ayuda que, debido a copiar y pegar, apuntan a mozillaes y no=
+
+> mozillaes-ayuda.
+>
+> Puedo corregirlo yo o que lo corrija Alvaro, pero hay que corregirlo.
+
+
+Bueno, pues ya lo he corregido, adem=E1s de darle un repaso general a
+todas las p=E1ginas.
+
+
+Saludos.
+
+- --
+|----------------------------------------------------------------------|
+| http://counter.li.org info: Linux user: 92390 - Linux machine: 39301 |
+|     Oscar Manuel G=F3mez Senovilla - mailto:omgs@escomposlinux.org     =
+|
+|               GPG Key at http://pgp.escomposlinux.org                |
+|----------------------------------------------------------------------|
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.3 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+
+iD8DBQE/kQqrQpr3kykd/aQRAu88AJ96RUqCHYXpjx2wVoElOelD6gN3CwCffFU1
+opZU4yBcPREoP9zBjQZbZsc=3D
+=3D8/ju
+-----END PGP SIGNATURE-----
+
