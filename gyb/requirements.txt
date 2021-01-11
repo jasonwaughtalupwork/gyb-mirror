@@ -3,3 +3,4 @@ google-api-python-client>=1.7.10
 google-auth
 google-auth-httplib2
 google-auth-oauthlib==0.4.0
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
