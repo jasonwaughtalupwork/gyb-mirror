@@ -1,4 +1,0 @@
-drive.googleapis.com
-gmail.googleapis.com
-groupsmigration.googleapis.com
-vault.googleapis.com
