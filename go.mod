@@ -8,7 +8,7 @@ replace github.com/docker/docker => github.com/moby/moby v0.7.3-0.20190826074503
 require (
 	github.com/Masterminds/semver v1.5.0
 	github.com/Masterminds/semver/v3 v3.1.0
-	github.com/aws/aws-sdk-go v1.27.0
+	github.com/aws/aws-sdk-go v1.34.0
 	github.com/ghodss/yaml v1.0.0
 	github.com/google/go-cmp v0.4.0
 	github.com/minio/minio-go/v6 v6.0.40
